@@ -1,0 +1,1447 @@
+0 0 0 Distance_Reference 0 Price_Reference 0 0 0 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 Location 
+0 0 0 Distance_Reference Parking_Type 0 
+0 0 0 Distance_Reference Parking_Type 0 0 
+0 0 0 Price_Reference Price_Reference Parking_Type 0 0 Location Location 
+0 0 0 Price_Reference Price_Reference 0 Parking_Type 0 0 Location_Reference 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference Price_Reference 0 0 
+0 0 0 Distance_Reference Parking_Type 
+0 0 0 Distance_Reference Parking_Type 0 
+0 0 0 Distance_Reference Parking_Type 0 0 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 
+0 0 0 Distance_Reference Parking_Type 0 
+0 0 0 Distance_Reference Parking_Type 0 0 0 0 0 
+0 0 0 Distance_Reference Parking_Type 0 0 0 Amount 0 0 
+0 0 0 Distance_Reference 0 0 
+0 0 0 Distance_Reference Parking_Type 
+0 0 0 Distance_Reference 0 0 0 Location Location 
+0 0 0 Distance_Reference Parking_Type 0 
+0 0 Parking_Type 0 
+0 0 Distance_Reference Price_Reference 0 
+0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 Location_Reference 
+0 0 0 0 0 0 
+0 0 0 Price_Reference Parking_Type 0 
+0 0 0 Parking_Type 0 Location_Reference 
+0 0 0 Parking_Type 0 
+0 0 Distance_Reference 0 0 
+0 0 Distance_Reference 0 Parking_Type 0 Location_Reference Location_Reference Location_Reference 0 0 
+0 0 Parking_Type 0 0 0 Location 
+0 0 0 0 0 0 0 0 0 Location 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Distance_Reference Price_Reference 0 Parking_Type 
+0 0 Price_Reference 0 Parking_Type 
+0 0 Price_Reference 0 0 0 Location_Reference 
+0 0 Parking_Type 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Price_Reference 0 0 0 
+0 0 0 0 0 Parking_Type 0 Location_Reference 
+0 Parking_Type 0 0 Price_Reference 0 0 
+0 0 0 Distance_Reference 0 0 Location Location Location Location 
+0 0 Parking_Type 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 0 0 0 Amount Amount 
+0 0 Parking_Type 0 0 Amount Amount 
+0 0 Parking_Type 0 0 Distance_Number Distance_Unit 0 0 Location_Reference 
+0 0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 Distance_Reference 0 0 
+0 0 0 0 0 0 0 
+0 0 0 Price_Reference 0 Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 0 Calendarx 
+0 0 0 0 0 0 0 Parking_Type 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 0 0 Location Location Location Location Location Location Location Location 
+0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Parking_Type 0 0 0 Location 
+0 0 0 0 0 0 Distance_Number Distance_Unit 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 Location Location 
+0 0 0 0 
+0 0 0 0 0 Location Location Location 
+0 0 0 0 Parking_Type 
+0 0 0 Location_Reference 0 Parking_Type 
+0 0 Price_Reference 0 0 Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 Parking_Type 0 0 Location Location Location 
+0 0 0 0 Parking_Type Location_Reference 
+0 0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Distance_Reference 0 Location_Reference Location_Reference Location_Reference Location_Reference 
+0 0 0 Price_Reference 
+0 0 Price_Reference 0 0 Location 
+0 0 Price_Reference 0 
+0 0 Parking_Type 0 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 Location 
+0 0 Distance_Reference Parking_Type 0 
+0 0 0 0 0 Price_Reference 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Duration Duration 
+0 0 0 Distance_Reference 0 Parking_Type 0 Location Location 
+0 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 Location_Reference 
+0 0 0 Price_Reference 0 0 Location_Reference Location_Reference 
+0 0 0 Price_Reference Parking_Type 0 Location 
+0 0 0 Price_Reference Parking_Type 0 
+0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 Price_Reference 0 Location_Reference Location_Reference 
+0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 Price_Reference 0 0 0 Location Location 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 Amount 0 0 Location Location 
+0 0 0 Distance_Reference Parking_Type 0 0 
+0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference Price_Reference Parking_Type 
+0 0 0 Distance_Reference Price_Reference 0 
+0 0 Distance_Reference 0 0 Distance_Number Distance_Unit 
+0 0 0 Distance_Reference 0 0 
+0 0 0 Distance_Reference Price_Reference 0 0 
+0 0 0 Distance_Reference 0 
+0 0 0 Distance_Reference 0 0 0 Location Location 
+0 0 0 Distance_Reference 0 0 0 0 Location 
+0 0 0 Distance_Reference 0 0 Location_Reference Location_Reference 
+0 0 0 Distance_Reference 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 0 0 Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location_Reference 
+0 0 0 0 0 Duration Duration 
+0 0 0 0 0 Duration Duration 
+0 0 0 0 0 Amount 0 Location_Reference 
+0 0 0 0 0 Price_Reference 
+0 0 0 0 0 Price_Reference 0 0 Location Location 
+0 0 0 0 0 Price_Reference 
+0 0 0 0 0 Price_Reference Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Price_Reference 0 0 Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 0 0 Amount 0 Duration Duration 0 
+0 0 0 0 0 0 Parking_Type Calendarx 0 Location Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Amount 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location 
+0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 0 Calendarx Calendarx 
+0 0 0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 0 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Price_Reference Parking_Type Location_Reference 
+0 0 Price_Reference 0 0 0 0 0 Location 0 
+0 0 0 0 0 0 0 Parking_Type 
+0 0 Price_Reference 0 0 0 Location_Reference Location_Reference Location_Reference 
+0 0 Distance_Reference 0 0 Location Location 
+0 0 Distance_Reference 0 Parking_Type 0 0 Location 
+0 0 Distance_Reference 0 0 0 Location 
+0 0 Distance_Reference 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location 
+0 0 Price_Reference Price_Reference Parking_Type 0 Location Location 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Location Location Location Location 
+0 0 Distance_Reference 0 0 
+0 0 0 0 0 0 0 0 0 0 Location Location 
+0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 0 Location_Reference 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location_Reference 0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 Amount 
+0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 0 0 0 0 0 0 Location Location Location Location Location Location 0 0 
+0 0 0 0 0 0 Parking_Type 0 0 0 Distance_Unit 
+0 0 0 0 0 0 Parking_Type Location_Reference 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Price_Reference 0 
+0 0 0 0 0 0 
+0 0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx 0 0 Location 
+0 0 0 0 Price_Reference 0 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 Distance_Unit Location_Reference 
+0 0 0 0 Location 
+0 0 0 0 0 0 Calendarx 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Price_Reference Price_Reference 0 0 0 Location Location 
+0 0 0 0 0 Price_Reference 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 Location Location 
+0 0 0 0 Duration Duration 0 Amount 
+0 0 0 0 0 0 0 0 0 Location_Reference Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Duration Duration 0 0 Amount 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 Amount Amount 0 0 
+0 0 0 0 0 0 0 Location Location Location Location 
+0 0 0 0 0 0 Price_Reference Price_Reference 
+0 0 0 0 0 0 Location 
+0 0 0 0 0 0 Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+Parking_Type 0 0 0 Location_Reference 
+0 0 0 Parking_Type 0 0 0 Location Location 
+0 0 0 0 Location Location Location 
+0 Price_Reference 0 0 Location 
+Parking_Type 0 0 Location_Reference Location_Reference 
+0 0 Parking_Type 0 
+0 0 0 0 0 0 0 0 0 0 0 0 Location Location 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+Parking_Type 0 0 Location 
+0 0 0 0 0 0 0 Price_Reference 
+0 0 0 0 Location Location Location Location Location Location Location Location 
+0 0 0 Distance_Reference 0 0 0 Location_Reference 
+0 0 0 0 Location Location Location 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location 
+0 0 0 Price_Reference 0 0 
+0 0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 Price_Reference 0 0 0 Location_Reference Location_Reference Location_Reference 
+0 0 0 0 0 0 Price_Reference 0 0 Location Location 
+0 0 0 Price_Reference 0 0 0 Location_Reference Location_Reference 
+0 0 0 Parking_Type 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 Location_Reference 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 0 0 Location 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Distance_Reference 0 Parking_Type 0 Location_Reference 
+0 0 0 0 0 
+0 0 0 0 0 0 0 0 Calendarx 
+0 0 0 Price_Reference Price_Reference 0 0 0 Calendarx Calendarx Calendarx 0 Location Location 
+0 0 0 Distance_Reference 0 0 0 0 Parking_Type 0 0 0 
+0 0 0 Price_Reference Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 Price_Reference 0 0 0 Location Location 
+0 0 0 Distance_Reference Parking_Type 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Parking_Type Location_Reference 
+0 0 0 0 0 0 Location_Reference 
+0 0 0 0 0 0 Location 0 0 
+0 0 0 Distance_Reference Parking_Type 0 0 Calendarx Calendarx Calendarx 
+0 Location Location Location Location Location Location Location Location 0 Parking_Type 0 0 
+0 0 0 Distance_Reference Parking_Type 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 Location 
+0 Parking_Type 0 0 0 0 0 0 0 0 Duration Duration 
+0 0 Parking_Type 0 0 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location Location 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location_Reference 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location Location Location Location 
+0 0 Parking_Type 0 0 0 0 Location Location 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx 
+0 0 Parking_Type 0 0 Price_Reference Price_Reference 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 Distance_Reference 0 0 0 
+0 0 Parking_Type 0 
+0 0 0 Price_Reference 0 Location_Reference 
+0 0 0 Price_Reference 0 0 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 Distance_Reference 0 Parking_Type 0 Amount 
+0 0 Parking_Type 0 
+0 0 0 Distance_Reference 0 0 
+0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location Location 
+0 0 0 Distance_Reference 0 0 Location_Reference Location_Reference Location_Reference 
+0 0 0 0 0 Price_Reference 0 
+0 0 0 Parking_Type 0 Amount 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 Distance_Reference Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 Parking_Type Location_Reference Location_Reference Location_Reference 
+0 0 0 0 0 0 0 0 0 Amount Amount 
+0 0 0 0 0 0 Parking_Type 0 
+0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Calendarx 
+0 0 0 Price_Reference 0 0 Calendarx 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 Distance_Reference Price_Reference 0 Parking_Type 0 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 Price_Reference Price_Reference Price_Reference 
+Parking_Type 0 0 0 Location_Reference Location_Reference 
+0 0 Distance_Reference 0 Price_Reference 0 0 
+0 0 0 0 Price_Reference 0 0 
+Parking_Type 0 0 Calendarx Calendarx 
+Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 Parking_Type 0 
+0 0 0 0 0 Parking_Type 
+0 0 0 
+0 0 0 0 0 0 0 
+Parking_Type 0 0 Location 
+0 0 0 Location Location Location Location Location 
+Parking_Type 0 0 Location 
+0 0 0 0 0 0 0 Price_Reference 0 
+0 0 0 0 0 Parking_Type 0 0 Distance_Reference 0 0 Location Location Location Location 
+0 0 0 0 0 0 0 0 Amount 
+0 0 0 0 Distance_Reference Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 0 0 Amount 0 0 
+0 0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 0 Price_Reference 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Price_Reference Parking_Type 0 0 Distance_Number Distance_Unit 0 0 Location_Reference Location_Reference 
+0 0 0 0 Distance_Reference Parking_Type 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 Distance_Reference 0 
+0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 0 0 0 0 Location Location Location Location Location 
+0 0 0 0 Distance_Reference Parking_Type 0 0 0 Amount Price_Reference Price_Reference 
+0 0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 Distance_Reference 0 0 Parking_Type 
+Calendarx Calendarx Calendarx Calendarx Calendarx 0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 Distance_Number Distance_Unit 0 0 0 
+0 0 Parking_Type 0 Distance_Reference Distance_Reference 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location Location 
+0 0 Parking_Type 0 
+0 0 0 Parking_Type Parking_Type 0 Location Location 
+0 0 0 0 0 Location Location 
+0 0 Parking_Type 0 0 Location Location 
+0 0 0 0 Amount 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Distance_Reference Distance_Reference 0 Location Location 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Parking_Type 0 Location_Reference Location_Reference 
+0 0 Parking_Type 0 0 Location Location 
+0 0 Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 0 0 Location 
+0 0 0 Price_Reference Parking_Type Parking_Type 0 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 0 Amount 
+0 0 0 Location_Reference Location 0 Parking_Type 0 
+0 0 Price_Reference 0 Parking_Type 0 0 Location_Reference 
+0 0 0 Distance_Reference 0 
+0 0 0 0 0 0 0 0 Parking_Type 0 0 Location Location 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 Parking_Type 
+0 0 0 Distance_Reference 0 Location 
+0 0 0 0 0 Amount 
+0 0 0 0 0 Price_Reference 0 0 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location_Reference 
+0 0 0 Price_Reference Parking_Type 0 
+0 0 0 0 Parking_Type 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Location_Reference Location_Reference 
+0 0 0 Parking_Type 0 Location_Reference 
+0 0 0 0 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Amount 
+0 0 0 0 0 0 
+0 0 Distance_Reference 0 Parking_Type 0 0 0 0 0 
+0 0 Price_Reference 0 0 
+0 0 Location_Reference 0 0 Amount 
+0 0 Distance_Reference Price_Reference 0 
+0 0 Price_Reference 0 
+0 0 Price_Reference 0 0 
+0 0 Parking_Type 0 0 0 Location 
+0 0 0 0 Location Location 
+0 0 0 0 0 Location 
+0 0 0 0 0 Amount 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Amount 
+0 0 0 Distance_Reference 0 Location Location 
+0 0 0 Parking_Type 0 
+0 0 0 0 Price_Reference 
+0 0 0 Parking_Type 0 Location Location 
+0 0 0 Parking_Type 0 0 Amount Amount 0 0 
+0 0 0 0 Calendarx Calendarx Location 
+0 0 0 0 0 Amount 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Amount 
+0 0 0 0 0 0 0 Location 0 0 
+Parking_Type 0 0 0 0 Calendarx Calendarx 0 0 0 0 Location Location Location Location Location 
+Parking_Type 0 0 0 0 0 0 0 Location_Reference 
+0 0 0 0 0 Location_Reference 
+Parking_Type 0 0 0 0 0 0 Location Location Location 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 Location Location 
+Parking_Type 0 0 Location_Reference 
+0 0 0 0 0 0 0 Location_Reference 
+Parking_Type 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 Distance_Number Distance_Unit 
+Parking_Type 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Distance_Reference 0 Location_Reference Location_Reference 
+0 0 0 0 0 Price_Reference 0 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 0 0 0 0 
+Parking_Type 0 0 0 0 0 0 0 0 Location 
+Parking_Type 0 0 0 0 Location 
+Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 
+Parking_Type 0 0 0 0 0 0 0 0 0 0 0 
+Parking_Type 0 0 0 0 0 Location 
+Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 Location_Reference Location_Reference 
+0 0 0 0 
+Parking_Type 0 Price_Reference 0 
+Parking_Type 0 0 0 Location Location Location 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Distance_Number 0 Parking_Type 0 Distance_Number Distance_Number Distance_Unit 0 0 Location_Reference Location_Reference 
+Location Location Location 0 
+0 0 0 0 Parking_Type 0 0 0 0 0 0 Location Location 
+0 0 0 0 Calendarx Calendarx 
+0 0 0 Distance_Reference Price_Reference 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location Location 
+0 0 Distance_Reference Parking_Type 0 
+0 0 0 Price_Reference Parking_Type 0 
+0 0 0 Price_Reference 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Location Location Location Location 
+0 0 0 0 0 0 0 0 Parking_Type 0 0 0 0 0 0 
+0 0 Price_Reference 0 
+0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Price_Reference Price_Reference 
+0 0 0 Price_Reference 0 
+0 0 0 0 0 
+0 0 Distance_Reference 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 Amount 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Parking_Type 0 Location 
+0 0 0 0 0 0 Distance_Reference Distance_Reference 0 0 Location 
+0 0 Price_Reference 0 Calendarx Calendarx Calendarx 
+0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 0 0 0 
+0 0 0 Location_Reference Location_Reference 
+0 0 0 Distance_Reference 0 Location_Reference Location_Reference 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location 
+0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location 
+0 0 Distance_Number Distance_Unit 0 0 0 
+0 0 0 0 Distance_Number Distance_Unit 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location 
+0 0 0 0 Amount 
+0 0 0 Parking_Type 0 0 0 0 
+0 0 0 Price_Reference 0 
+0 0 0 0 0 Parking_Type 0 0 Location Location 
+0 0 0 0 Parking_Type 0 0 0 0 0 Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Parking_Type 0 0 0 0 0 Location Location Location Location Location Location Location 
+0 0 0 0 0 0 0 0 Price_Reference 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Distance_Reference 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 0 0 0 0 0 Duration Duration Duration Duration 
+0 0 0 0 0 0 0 Parking_Type 0 0 
+0 0 0 0 0 0 0 0 Amount Price_Reference Price_Reference 
+0 0 0 0 0 0 Amount Amount 
+0 0 Parking_Type 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location Location Location 
+0 0 0 0 0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 Price_Reference 0 0 0 0 0 0 Amount Price_Reference Price_Reference 
+0 Parking_Type 0 0 0 0 0 0 Amount Price_Reference Price_Reference 0 Location Location 
+0 Parking_Type Location_Reference 0 
+0 Parking_Type 0 0 0 0 0 Location Location Location Location Location Location 
+0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Location_Reference 
+0 0 0 0 0 0 0 Location Location Location 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Parking_Type 0 Location 
+0 Distance_Reference Parking_Type 0 0 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+Parking_Type 0 0 0 0 0 0 0 0 0 0 0 Amount 
+Parking_Type 0 0 0 0 Location Location 0 0 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 0 0 0 Amount Amount 
+Parking_Type 0 0 0 0 0 Location Location 0 Calendarx Calendarx Calendarx 
+0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 Location 
+Parking_Type 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 0 0 
+Parking_Type 0 0 0 Distance_Reference 0 0 0 0 Location 
+Parking_Type 0 0 0 
+Parking_Type 0 0 0 0 Distance_Number Distance_Unit 0 0 Location_Reference Location_Reference 
+Parking_Type 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location Location 
+Price_Reference Price_Reference 0 
+0 0 Price_Reference 0 
+0 0 Distance_Reference Parking_Type 
+Distance_Reference 0 
+Parking_Type 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Parking_Type 0 Location 
+0 0 0 0 0 0 0 0 0 0 0 Parking_Type 
+0 0 Price_Reference 0 
+Distance_Reference 0 Parking_Type 
+0 0 0 0 Price_Reference 0 
+0 0 0 Calendarx 0 
+0 0 0 Distance_Reference 0 Parking_Type 0 Amount 
+0 0 0 Distance_Reference 0 0 
+Location_Reference Price_Reference 0 
+0 0 0 0 0 Amount Amount 
+0 0 Parking_Type 
+0 0 0 0 Location 
+0 0 0 0 0 
+0 0 0 0 0 Location Location 
+0 0 0 0 Price_Reference 0 
+0 0 0 Location Location 
+0 0 0 0 0 Location 
+0 0 Price_Reference 0 
+0 0 0 Amount Amount 0 0 0 0 Location 
+0 0 Location Location 
+0 0 0 0 0 0 Duration Duration 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 Location 
+0 0 Location Location 
+0 0 0 Location Location 
+0 0 0 0 0 0 0 0 
+0 0 Distance_Reference 0 
+0 0 0 
+0 0 0 0 Duration Duration 
+0 0 Amount 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 Parking_Type 0 
+0 0 0 Price_Reference 0 0 
+0 0 Location Location Location 
+0 Calendarx Calendarx 
+0 Calendarx Calendarx Calendarx Calendarx Calendarx 0 Distance_Reference 
+0 0 Location Location 
+0 Amount 0 0 
+0 Calendarx Calendarx Calendarx Location 
+0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location 
+0 0 Calendarx Calendarx Calendarx 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Location Location 
+0 Price_Reference 
+0 Distance_Reference 0 Location_Reference Location_Reference 
+0 Calendarx Calendarx Calendarx Calendarx 
+0 Parking_Type 0 Amount 0 0 
+0 0 0 Location_Reference Location_Reference 
+0 Parking_Type Distance_Reference 0 0 
+0 0 0 Location Location 
+0 0 0 Distance_Reference Distance_Reference 0 0 Location 
+0 0 Distance_Reference Distance_Reference Distance_Reference Distance_Reference 0 Location 
+0 0 Location Location 
+0 0 Location 
+0 0 Location Location 
+0 0 Location Location Location 
+0 0 Location Location 
+0 0 Distance_Reference 
+0 0 Location Location 
+0 Location_Reference 
+0 0 0 Amount 
+0 0 Parking_Type 0 0 0 Location 
+0 0 0 0 0 
+0 0 0 0 Parking_Type 0 0 Location Location Location 
+0 0 Price_Reference 0 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 Location Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 Parking_Type 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 Parking_Type 0 0 Location_Reference Location_Reference 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 Calendarx Calendarx 
+0 0 0 Price_Reference 0 
+0 0 0 Location Location Location 
+Distance_Reference 0 0 Location Location Location 
+0 0 Parking_Type 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Amount 
+0 0 Parking_Type Distance_Number Distance_Unit Location Location Location 
+0 0 Parking_Type 0 0 Price_Reference 0 0 Location Location 
+0 0 Parking_Type 0 0 0 Location Location 
+0 0 0 Location Location 
+0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 Parking_Type 0 0 Location Location Location 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Distance_Number Distance_Unit 
+0 0 Location_Reference 0 Amount 
+0 0 0 0 0 Distance_Number Distance_Unit 0 0 0 
+0 0 0 0 Location Location Location 
+0 0 0 0 Location Location 
+0 0 0 Distance_Number Distance_Unit 0 0 Location_Reference 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx 0 Location Location 
+0 0 Price_Reference 0 Parking_Type Location 
+0 0 Distance_Reference Parking_Type 0 
+0 0 0 0 Location Location 
+0 0 0 0 Location 
+0 0 Distance_Reference 0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 Amount 
+0 0 Distance_Reference 0 Parking_Type 
+0 Parking_Type 0 0 Location Location 
+0 0 Location_Reference 0 Parking_Type 
+Distance_Reference 0 0 
+0 0 0 0 0 0 
+0 0 Distance_Reference Price_Reference 0 
+0 0 Distance_Reference 0 Parking_Type 
+0 0 Distance_Reference 0 Parking_Type 0 Location Location 
+0 Parking_Type 0 
+0 0 Distance_Reference 0 Parking_Type 
+0 Parking_Type 0 0 0 Location Location Location 
+0 Parking_Type 0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Price_Reference 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 Calendarx Calendarx Calendarx 
+0 Parking_Type 0 0 0 0 Calendarx Calendarx 
+0 0 0 Amount 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Price_Reference 0 0 0 0 Distance_Reference Distance_Reference 
+0 0 0 0 Parking_Type 0 Location Location 
+0 0 Distance_Number 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Distance_Unit 
+0 0 0 0 0 0 Price_Reference 
+0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Distance_Number Distance_Unit 
+Distance_Reference 0 Distance_Number Distance_Unit 0 
+0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 0 Amount Amount 
+0 0 0 Location_Reference Location_Reference 
+0 0 0 0 Location Location Location 
+0 0 0 0 0 Location 
+0 0 0 0 0 0 
+0 0 0 0 0 0 0 Distance_Unit 
+0 0 0 0 0 0 Parking_Type 0 0 Location Location Location Location Calendarx 
+0 0 Parking_Type 0 0 0 Location 
+0 0 0 0 Amount 
+0 0 0 0 Distance_Number Distance_Unit 0 0 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location_Reference 
+0 0 0 0 0 Location 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Price_Reference 
+0 0 0 0 0 0 Location Location 0 0 
+0 0 Parking_Type 0 0 0 0 Location 
+0 0 Parking_Type 0 
+0 0 Parking_Type 0 0 0 Location Location 
+0 0 Parking_Type 0 0 0 Location 
+0 0 Price_Reference Price_Reference 0 0 
+0 0 0 0 0 0 0 Location Location Location Location Location 
+0 0 Parking_Type 0 0 0 0 
+0 0 Parking_Type 0 0 
+0 0 0 Parking_Type 0 Calendarx Calendarx Calendarx 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Parking_Type Location_Reference 
+0 0 0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 0 0 Parking_Type 0 0 Price_Reference 0 0 
+0 0 0 0 Price_Reference 0 0 
+0 0 0 0 Price_Reference 0 
+0 0 0 Parking_Type 0 
+0 0 0 Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 Location Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 0 
+0 0 0 Parking_Type Location_Reference Location_Reference 
+0 0 0 Parking_Type 0 Distance_Number Distance_Number Distance_Unit 
+0 Duration Duration 0 
+0 0 Location Parking_Type 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Parking_Type Distance_Number Distance_Unit 0 Location 
+0 0 0 Parking_Type 0 0 Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 Parking_Type 0 0 Location 
+0 0 0 Parking_Type 0 0 0 Price_Reference 0 0 0 Location Location 
+0 0 0 0 0 Distance_Number Distance_Number Distance_Unit 0 0 Location 
+0 0 0 Parking_Type 0 Location Location Location Location Location Location 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 Location Location Location Location Location Location 
+0 0 0 0 0 Distance_Reference Distance_Reference 0 0 Location 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 Location_Reference 0 
+0 0 0 0 Parking_Type 0 0 Location Location 
+0 0 Distance_Number 0 Parking_Type 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 Price_Reference 0 Parking_Type Location_Reference Location_Reference 
+0 Parking_Type 0 0 0 Location 
+0 0 0 Parking_Type 0 Location Location Location 0 
+0 0 0 Parking_Type 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Price_Reference 0 Parking_Type Location_Reference 
+0 0 0 0 Parking_Type 0 0 0 Location Location Location 
+0 0 0 Price_Reference 0 0 0 0 Location Location 
+0 0 0 Parking_Type 0 0 0 0 Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 Distance_Number Distance_Unit Distance_Unit 0 0 Location 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 Parking_Type 0 
+0 0 0 0 Parking_Type 0 Price_Reference 0 
+0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 0 0 0 Distance_Unit 0 0 
+0 0 0 0 Parking_Type 0 Location Location 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 0 0 Parking_Type 0 0 Distance_Number Distance_Unit Distance_Unit 0 0 Location_Reference 
+0 0 0 0 0 0 0 Price_Reference 
+0 0 0 0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Location_Reference Location_Reference 
+0 0 0 0 0 0 0 0 Location 0 0 0 Amount 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Duration Duration 
+0 0 0 0 0 0 0 Duration Duration 
+0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 Parking_Type Location_Reference 
+0 0 0 0 0 Parking_Type Location_Reference 
+0 0 0 0 0 0 Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 0 Parking_Type 0 Location_Reference Location_Reference Location_Reference 
+0 0 0 Price_Reference 0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 Price_Reference 0 0 Distance_Number Distance_Unit 
+0 0 0 Parking_Type 0 0 0 0 Location 
+0 0 0 Parking_Type 0 Location_Reference 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 
+0 0 Price_Reference 0 Location_Reference 
+0 0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location Location 
+0 0 Price_Reference 0 0 Location Location Location 
+0 0 Location_Reference 0 0 Calendarx Calendarx 
+0 0 Price_Reference 0 0 
+0 0 Price_Reference 0 Location_Reference Location_Reference Location_Reference 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx 
+0 0 Price_Reference 0 
+0 0 Location_Reference 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location Location Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 Location_Reference Calendarx Calendarx Calendarx 
+0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 Duration Duration 
+0 0 0 0 0 0 0 0 0 Amount Price_Reference Price_Reference 
+0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Duration Duration 
+0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 Location Location 
+0 0 0 Parking_Type 0 0 0 0 Price_Reference Price_Reference 
+0 0 0 0 0 Distance_Number Distance_Number Distance_Unit 
+0 0 0 Parking_Type 0 0 0 0 Distance_Number Distance_Unit 0 0 0 0 0 Location Location 0 Calendarx Calendarx Calendarx 
+0 0 0 Parking_Type 0 0 0 Location Location 
+0 0 0 Parking_Type 0 0 0 0 0 0 0 Location 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 Amount 
+0 0 0 0 0 0 Amount 
+0 0 Parking_Type 0 0 0 0 Location 
+0 0 0 0 0 0 0 0 0 0 Location Location Location 
+0 0 0 0 0 0 0 0 0 0 Parking_Type 0 
+0 0 0 0 0 Distance_Number Distance_Unit 0 0 
+0 0 Parking_Type 0 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 Price_Reference 0 0 Location_Reference 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 Amount Amount 
+0 0 0 0 0 Distance_Number Parking_Type 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 Parking_Type 0 Distance_Reference Distance_Reference 
+0 0 0 0 Location 
+0 0 0 Parking_Type 0 0 Location Location 
+0 0 0 0 0 0 0 Location Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 Parking_Type 0 0 0 0 0 Location Location Location Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Parking_Type 0 0 0 
+0 0 0 0 0 0 Distance_Unit 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location Location 
+0 0 0 0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location Location Location 
+0 0 0 0 0 0 0 Location 
+0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Parking_Type 0 Amount Price_Reference Price_Reference 
+0 0 Location_Reference 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Calendarx 
+0 0 Parking_Type 0 
+0 0 0 0 0 0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 Parking_Type 0 0 Amount 0 
+0 0 0 0 0 Location Location Location 
+0 0 Parking_Type 0 
+0 0 0 0 0 Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Parking_Type 0 
+0 0 0 0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Parking_Type 0 0 0 0 Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location Location 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Duration Duration 
+0 0 0 0 0 0 Amount 
+0 0 0 0 Distance_Reference 0 Location 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Parking_Type 0 0 0 Duration Duration 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 0 0 Amount 
+0 0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 Amount 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 Parking_Type 0 0 0 0 Location 
+0 0 Parking_Type 0 0 Location Location 
+0 0 0 Parking_Type 0 0 0 Location Location Location Location Location Location 
+0 0 0 0 0 Parking_Type 0 Calendarx Calendarx Calendarx 
+0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 Distance_Number 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 Price_Reference 0 0 
+0 0 0 0 Price_Reference 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 Location 
+0 0 0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 0 0 0 
+0 0 0 0 0 Location Location 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 0 0 0 Location Location 0 Parking_Type 0 0 0 Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location Location 
+0 0 0 0 Distance_Reference 0 
+0 0 0 0 0 0 Distance_Reference 0 0 Location 
+0 0 0 Location Location Location 
+0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 Parking_Type 0 0 0 0 0 Location Location Location Location 0 Calendarx Calendarx 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx 0 0 Location 
+0 0 0 Parking_Type 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 Parking_Type 0 0 Distance_Number Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 Distance_Reference 0 Parking_Type 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 Location_Reference 0 
+0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 
+0 0 0 Parking_Type 0 0 Price_Reference 
+0 0 0 0 0 
+0 0 0 Price_Reference 0 Parking_Type 0 Location_Reference Location_Reference 0 0 
+0 0 0 0 0 0 Location Location 
+0 0 0 Location_Reference 0 0 0 Price_Reference 0 0 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 0 Amount Amount Location 
+0 0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 Distance_Reference Distance_Reference Distance_Reference Distance_Reference 0 Location 
+0 0 0 0 0 0 Distance_Number Distance_Unit Distance_Reference Distance_Reference 0 0 Location 
+0 0 0 0 0 0 0 0 0 0 0 Amount Amount 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 Location Parking_Type Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Distance_Reference Parking_Type 
+0 0 0 0 0 0 Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 Location Location 0 Calendarx 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Amount Price_Reference Price_Reference 
+0 0 Price_Reference 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 0 0 0 Location 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location 
+0 0 0 Distance_Reference 0 0 
+0 0 0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 0 Calendarx 0 
+0 0 0 0 0 0 Location Location Location 
+0 0 0 Distance_Number Distance_Unit 0 0 0 
+0 0 0 0 Price_Reference 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location Location 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 
+0 0 0 0 Location Location 0 0 0 0 0 0 
+0 0 0 0 0 Parking_Type 0 Price_Reference 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location 
+0 0 0 0 Distance_Number Distance_Unit 0 0 
+0 0 0 0 Amount 
+0 0 Parking_Type 0 Location_Reference 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 0 0 
+Price_Reference 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+Price_Reference Parking_Type 0 
+0 0 0 0 0 0 Price_Reference 0 
+Parking_Type 0 Location_Reference Location_Reference 
+0 0 Distance_Reference 0 0 Location Location 
+Price_Reference 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+Price_Reference 0 
+Price_Reference 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Parking_Type Location_Reference Location_Reference 
+0 0 Distance_Number 0 Parking_Type 0 Distance_Number Distance_Unit 
+Price_Reference 0 Location_Reference Location_Reference 
+Price_Reference 0 0 Distance_Number Distance_Unit 
+Parking_Type 0 0 0 0 
+Parking_Type 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 Price_Reference 0 Parking_Type 0 Location_Reference Location_Reference Location_Reference Location_Reference 
+0 Price_Reference 0 Parking_Type 0 Location_Reference Location_Reference Location_Reference Location_Reference 
+0 0 0 0 0 Location 
+0 Price_Reference 0 
+0 0 Price_Reference 0 0 
+0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 Parking_Type 0 0 0 0 Amount 
+0 0 0 0 0 0 0 0 0 Parking_Type 0 
+0 0 0 0 Price_Reference 0 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Location 
+0 0 Parking_Type 0 
+0 0 0 0 0 0 Price_Reference 0 Parking_Type 
+0 0 Distance_Reference 0 0 Location Location 0 Parking_Type 0 
+0 0 0 0 0 0 0 Parking_Type 0 0 Location Location Location Location 
+0 0 0 0 Distance_Reference 0 Parking_Type 
+0 Distance_Reference Parking_Type 
+0 0 0 0 0 0 Parking_Type 0 0 0 Location 
+0 0 0 0 Duration Duration 
+0 0 0 Distance_Reference Parking_Type 0 
+0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location 
+0 0 Parking_Type 0 
+0 0 0 0 Parking_Type 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Parking_Type 0 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Distance_Reference 0 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Location 
+0 Location 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Amount Amount 
+0 0 0 Location 0 0 
+0 0 0 0 0 0 0 0 0 Location Location 
+0 Distance_Reference Parking_Type 
+0 0 0 Amount Amount 
+0 0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 0 Parking_Type Parking_Type 
+0 0 0 0 0 0 Amount 
+0 0 0 0 Location Location 
+0 0 0 Amount 
+0 0 0 0 Location Location 
+0 0 0 0 0 Location Location Location 
+0 0 Price_Reference Parking_Type 0 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Price_Reference 0 0 0 Amount Amount 
+0 0 0 0 Distance_Number Distance_Unit 0 0 Location_Reference 
+0 0 0 0 0 0 0 0 Location Location 
+0 0 0 Parking_Type 0 
+0 0 0 Distance_Number Distance_Number Distance_Number Distance_Unit 
+0 0 Price_Reference 0 Parking_Type 
+0 0 0 Distance_Number Distance_Unit 0 Location Location Location 
+0 0 Parking_Type 0 Location Location 
+0 0 0 Distance_Number Distance_Unit 0 Location Location Location 
+0 Parking_Type 0 0 0 0 0 Location 
+0 0 Price_Reference 0 
+0 0 0 0 0 Location 
+0 0 0 0 0 Location_Reference Location_Reference 
+0 0 0 
+0 Parking_Type 0 
+0 Parking_Type 0 0 Amount Price_Reference Price_Reference 
+0 Parking_Type 0 0 0 0 Location Location Location Location Location Location 
+Parking_Type 0 0 Price_Reference 
+0 0 Distance_Reference 0 Parking_Type 
+0 0 Price_Reference 0 0 Parking_Type 0 0 Location 
+0 Parking_Type 0 0 0 0 Location_Reference 
+0 Parking_Type 0 0 Location 
+0 Parking_Type 0 0 Distance_Number Distance_Unit 0 0 Location 
+0 Parking_Type 0 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 Price_Reference 0 0 0 0 0 Location Location 
+0 0 Distance_Reference 0 Parking_Type 
+0 0 Price_Reference 0 Parking_Type 0 0 Location Location 
+0 0 Price_Reference 0 Location_Reference 
+0 0 Price_Reference 0 0 
+0 0 Distance_Reference 0 0 
+0 0 Price_Reference Parking_Type 0 Location 
+0 0 Price_Reference Parking_Type 0 0 Distance_Number Distance_Unit 
+0 0 Distance_Reference Price_Reference 0 0 
+0 0 0 0 0 Location 
+0 0 0 0 0 Distance_Reference 0 0 
+0 0 Distance_Reference 0 Parking_Type Location_Reference Location_Reference 
+0 0 Distance_Reference 0 0 0 0 Location 
+0 0 Distance_Reference 0 0 
+0 0 Distance_Reference Parking_Type 0 
+0 0 Distance_Reference 0 0 Location Location 
+0 0 Distance_Reference Parking_Type 0 
+0 0 Distance_Reference 0 Parking_Type 
+Parking_Type 0 0 Location Location 
+0 0 0 0 Parking_Type 0 0 Location 
+0 0 Distance_Reference Parking_Type 0 
+0 0 Distance_Reference Parking_Type 0 0 0 Location 
+0 0 Price_Reference Price_Reference 0 Parking_Type 
+0 0 Distance_Reference Price_Reference 0 
+0 0 Distance_Reference Parking_Type 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 Distance_Reference Parking_Type 0 
+0 0 0 0 0 0 Amount 
+Parking_Type 0 Calendarx Calendarx Calendarx 
+0 Parking_Type 0 0 Location Location Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 
+0 0 0 0 Distance_Number Distance_Unit 
+0 Parking_Type 0 
+0 Parking_Type 0 0 0 Location 
+0 Parking_Type 0 Location_Reference Location_Reference Location_Reference 
+0 Parking_Type 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 Amount Amount 0 0 0 Parking_Type 
+0 0 0 0 0 0 0 Location Location Location 0 0 0 0 0 0 0 0 0 
+0 0 Distance_Reference Distance_Reference Distance_Reference Distance_Reference 
+0 0 0 0 0 0 0 0 0 Amount Amount 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 Location 
+0 0 0 0 0 0 0 0 Parking_Type 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 
+0 0 Parking_Type 0 0 0 Location 
+0 0 Parking_Type 0 0 0 0 Location Location 
+0 Distance_Reference 0 Parking_Type 
+0 0 0 0 0 Location Location 
+0 0 
+0 Parking_Type 0 0 Location Location 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 Location_Reference Parking_Type 
+0 Location_Reference Parking_Type Parking_Type 0 
+0 Distance_Reference 0 
+0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 Distance_Reference 0 0 0 
+0 Distance_Reference Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 Location Location 
+0 0 0 0 0 0 0 0 0 0 0 0 Location Location Location 
+0 0 Location_Reference Location_Reference Location_Reference 
+0 0 0 Location_Reference Location_Reference 
+0 0 0 0 Location 
+0 0 0 Location 
+0 0 0 Location Location 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location Location 
+0 0 Location 
+0 0 0 Duration Duration 
+0 0 0 Location 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Duration Duration 
+0 0 0 0 Amount 
+0 0 0 0 0 Location_Reference 
+0 0 0 Amount 
+0 0 Parking_Type Location_Reference 
+0 0 Parking_Type 0 Calendarx Calendarx Calendarx 
+0 0 Parking_Type 0 Amount 
+0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 Parking_Type 0 Location Location 
+0 0 Parking_Type 
+0 0 0 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 Parking_Type 0 Distance_Number Distance_Unit Distance_Unit 
+0 0 0 0 Parking_Type 
+0 0 0 Location Location Location 
+0 0 0 Location 
+0 0 0 Location Location 
+0 0 0 Amount 
+0 0 0 Location Location 
+0 0 Location_Reference Location_Reference 
+0 0 0 Location Location Location 
+0 0 0 Location Location 
+0 0 0 0 Location Location Location 
+0 0 0 Location Location Location 
+0 0 0 0 Location 
+0 0 0 0 Location Location Location 
+0 0 0 0 Location 
+0 0 0 0 Location Location 
+0 0 0 Location Location 
+0 0 0 0 Location Location 
+0 0 Distance_Reference 0 0 Location 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Price_Reference Parking_Type Location 
+0 0 0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location 
+0 0 0 0 0 Amount 
+0 0 0 0 0 Amount Amount 0 Location Location 
+0 0 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 Parking_Type 0 0 Location 0 0 Amount Amount 
+0 0 0 0 0 Parking_Type 0 0 0 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit 0 Location 
+0 0 0 0 0 Parking_Type 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location 
+0 0 0 0 0 Location Location Location 
+0 0 0 Location Location Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 0 Location Location Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 Location Location 
+0 0 0 Parking_Type 0 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 Location Location 
+0 0 0 0 0 Location Location Location Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 Location Location 
+0 0 Parking_Type 0 0 Location_Reference 
+0 0 0 0 Location Location Location Location 
+0 0 0 0 0 Distance_Unit 0 
+0 0 0 Distance_Reference 0 0 0 Location Location Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 0 Amount Amount 
+0 0 0 0 0 0 Amount Amount 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location Location 
+0 0 0 0 0 Location 
+0 0 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 Price_Reference 0 
+0 0 0 0 Amount 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 Parking_Type 0 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 0 Location_Reference Location_Reference 
+0 0 Parking_Type 0 0 0 Location_Reference 
+0 0 Parking_Type 0 
+0 0 Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 Price_Reference 0 0 0 Location 
+0 0 Parking_Type 0 0 Distance_Number Distance_Number Distance_Unit 0 Location_Reference Location_Reference 
+0 0 0 Price_Reference Price_Reference 0 0 0 0 Location 
+0 0 0 0 0 0 0 Amount 
+0 0 0 Price_Reference 0 0 0 0 0 0 Location 
+0 0 0 Price_Reference 0 
+0 0 0 Distance_Reference 0 0 0 0 0 0 Location_Reference 
+0 0 0 Price_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 0 Location Location Location 0 0 
+0 0 0 Price_Reference 0 Parking_Type 0 Location Location 
+0 0 0 Parking_Type Distance_Reference 0 Location_Reference Location_Reference Location_Reference 
+0 0 0 Price_Reference 0 0 0 Location 
+0 0 0 Distance_Reference 0 Parking_Type 
+0 0 0 Distance_Reference 0 Parking_Type 0 0 Location Location 
+0 0 0 Distance_Reference 0 0 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 Parking_Type 0 
+0 0 0 0 0 0 0 0 Location Location 0 0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 0 Distance_Reference 0 0 Location_Reference 
+0 0 0 0 0 0 Distance_Number Distance_Unit 0 Location Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Amount 
+0 0 0 0 Parking_Type Location_Reference Location_Reference 
+0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location Location 
+0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 Amount Price_Reference Price_Reference 
+0 0 0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 Price_Reference 0 0 0 0 0 Location Location 
+0 0 0 0 0 Location 
+0 0 0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 Location 0 0 Parking_Type 
+0 0 0 0 0 0 Location 0 0 Parking_Type 0 0 
+0 0 0 0 0 0 0 0 0 Location Location 
+0 0 Distance_Number 0 0 0 Distance_Number Distance_Unit 0 0 0 Location 
+0 0 0 0 0 0 0 0 0 Location 0 0 0 0 Amount Amount 0 Duration Duration 0 
+0 0 0 0 0 0 0 0 0 0 0 0 Location Location 
+0 0 0 Parking_Type 0 0 Distance_Number Distance_Unit 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 Price_Reference 0 0 0 0 0 
+0 0 Parking_Type 0 0 Location 
+0 0 Price_Reference 0 
+0 0 Price_Reference 0 0 Location_Reference 
+0 0 Price_Reference Parking_Type 0 
+0 0 Price_Reference 0 0 Location Location 
+0 0 Price_Reference Parking_Type 0 0 Location_Reference Location_Reference 
+0 0 Price_Reference Parking_Type 0 
+0 0 Price_Reference 0 0 
+0 0 0 0 Location Location 
+0 0 0 0 0 Location Location Location Location Location 
+0 0 0 0 0 Location Location Location Location 
+0 0 0 0 Location 
+0 0 0 0 Location 
+0 0 Parking_Type 0 
+0 0 Parking_Type Parking_Type 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location 
+0 0 0 0 0 Location Location 
+0 0 0 0 Location Location 
+0 0 Location Location Location 
+0 0 0 0 
+0 0 0 Price_Reference 0 
+0 Duration Duration 0 0 0 Parking_Type 
+0 0 0 0 0 Location 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Parking_Type 0 0 Location Location Location Location 
+0 0 0 0 0 Location 
+0 Price_Reference 0 Distance_Reference 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 0 Price_Reference Price_Reference 
+0 0 0 0 0 Parking_Type 0 0 Location Location 0 0 0 0 
+0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location_Reference Location_Reference 
+0 0 0 0 0 Price_Reference 
+0 Distance_Number 0 0 0 Distance_Number Distance_Number Distance_Unit 0 Location_Reference Location_Reference 
+0 0 0 0 0 0 
+0 Price_Reference 0 
+0 Price_Reference 0 Location_Reference 
+0 0 0 0 0 Amount 
+0 0 0 0 Parking_Type 
+0 0 Parking_Type 0 0 0 0 Amount Amount 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 Location Location 
+0 Distance_Reference Parking_Type 0 
+0 Price_Reference 0 Location_Reference Location_Reference 
+0 Price_Reference 0 0 Location_Reference Location_Reference 
+0 Price_Reference Parking_Type 0 
+0 Price_Reference 0 Location_Reference Location_Reference 
+0 Distance_Reference Parking_Type 0 0 Location Location Location 
+0 Distance_Reference 0 0 0 Location 
+0 Distance_Reference 0 0 0 
+0 Distance_Reference 0 
+0 Distance_Reference 0 Parking_Type 
+0 Parking_Type 0 
+0 0 0 
+0 0 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Location Location 
+0 Price_Reference Parking_Type Parking_Type 0 
+0 Price_Reference 0 
+0 Price_Reference 0 0 0 0 0 Location Location 
+0 Price_Reference Parking_Type 0 0 0 Location 
+0 0 0 0 Parking_Type 
+0 Parking_Type 0 Amount Price_Reference Price_Reference 
+0 0 0 0 
+0 0 0 0 0 Location 
+0 0 0 Parking_Type 0 
+0 0 0 0 
+0 0 0 0 0 0 0 Location Location Location 
+0 0 0 0 Distance_Number Distance_Unit 0 Location 
+0 0 0 Distance_Reference 0 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit 0 0 Location_Reference Location_Reference 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 Location_Reference 
+0 0 0 0 0 0 Amount 
+0 0 0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 Parking_Type Location 
+0 0 0 0 Parking_Type 0 0 Location Location 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 Amount 0 Duration Duration 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 0 Location 0 0 0 0 Amount 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 0 0 Duration Duration 
+0 0 0 0 0 0 0 0 0 Location Location 0 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx 
+Location Location 0 0 
+0 0 0 0 0 Location Parking_Type 0 0 0 0 0 0 0 
+0 Parking_Type Location_Reference 
+0 0 0 
+0 0 0 0 Location_Reference 
+Location 0 
+0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 
+0 0 0 0 0 Location 
+0 Parking_Type 0 Location_Reference 
+0 0 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit Distance_Unit 0 Location_Reference 
+0 0 0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 Parking_Type 0 0 0 0 Location Calendarx Calendarx Calendarx 0 0 
+0 0 0 0 0 Parking_Type Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 Calendarx 
+0 0 0 0 0 Parking_Type Calendarx Calendarx Calendarx 
+0 0 0 0 0 Parking_Type Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Location Location Calendarx Calendarx Calendarx 
+0 0 0 0 Location 
+0 0 0 0 0 0 0 0 Parking_Type 0 Calendarx 
+0 0 0 0 0 Parking_Type 
+0 0 Parking_Type 0 0 0 0 Amount 
+0 0 0 0 0 0 Parking_Type 0 0 0 0 0 0 Location Location 
+0 0 0 0 0 Parking_Type Calendarx Calendarx Calendarx 0 0 0 
+0 0 0 0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 Location_Reference 
+0 0 0 Price_Reference 0 0 0 Location 
+0 0 0 0 0 0 0 0 Location Location Location Location 
+0 0 0 0 0 0 0 Distance_Number 0 Distance_Unit 0 0 Location 
+0 0 0 0 0 0 0 Parking_Type 0 Location 
+0 0 0 0 0 0 0 Distance_Number Distance_Unit Distance_Unit 0 Location_Reference 
+0 0 0 0 0 0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 0 0 0 0 0 Parking_Type 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location 0 0 0 0 Calendarx Calendarx 
+0 0 0 0 0 0 0 Location Location 
+Distance_Reference 0 
+0 0 0 0 0 Distance_Reference 0 Parking_Type 0 0 
+0 0 0 0 0 0 Parking_Type Calendarx Calendarx Calendarx 
+0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Price_Reference 0 
+0 0 0 0 0 Parking_Type 0 0 0 Location_Reference 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 Location Location 0 0 0 
+0 0 Price_Reference 0 Parking_Type 
+0 0 0 0 0 0 0 0 
+0 Duration 0 Parking_Type 0 0 0 0 0 0 Duration Duration 0 Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Distance_Reference 0 0 0 Parking_Type 
+0 0 0 Parking_Type 0 
+0 0 0 0 Price_Reference 0 
+0 0 0 0 Location Location 
+0 0 Distance_Reference 0 Parking_Type 
+0 0 Distance_Reference 0 Parking_Type 0 0 Location 
+0 0 Price_Reference Location 0 
+0 0 0 0 
+0 0 Parking_Type Distance_Reference Location Location 
+0 Price_Reference Parking_Type 0 0 0 Location Location 
+0 0 Location 0 Parking_Type 0 
+0 0 Parking_Type Location_Reference Location_Reference 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Distance_Reference 0 0 
+0 0 0 Parking_Type 0 Location_Reference Location_Reference Location_Reference 
+0 Parking_Type 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 Location Location 0 0 
+0 Parking_Type 0 0 
+0 0 0 0 Location_Reference 0 Calendarx 
+0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Parking_Type 
+0 0 0 0 0 0 Parking_Type 0 0 Location_Reference Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 0 0 Amount 
+0 0 0 0 0 0 Location Location 
+0 0 Price_Reference 0 Parking_Type 
+0 0 Parking_Type 0 0 Price_Reference 0 Location_Reference Location_Reference Location_Reference 
+0 0 0 0 0 0 0 0 0 0 Location Calendarx 0 
+0 0 Location_Reference Parking_Type 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 0 Location 0 Distance_Reference Distance_Reference 
+0 0 0 Parking_Type 
+0 0 0 Parking_Type 0 0 Location Location 
+0 0 0 Parking_Type 0 Distance_Reference Distance_Reference 
+0 0 0 Parking_Type 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 Parking_Type Location_Reference 
+0 Price_Reference 0 0 Location Location 
+0 0 0 Parking_Type 0 0 Location_Reference 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 Location Location 
+0 0 0 Parking_Type 0 0 Location 
+0 0 Location_Reference 0 0 
+0 0 0 Parking_Type 0 Location Location 
+0 0 Location 0 0 Parking_Type 0 
+0 0 Location Location 0 Price_Reference 0 
+0 0 Parking_Type 0 0 0 
+0 0 Location 0 Location_Reference Price_Reference 0 
+0 0 Distance_Reference Parking_Type 0 0 0 Amount Price_Reference Price_Reference 
+0 0 Location Location 0 0 Location_Reference 
+0 0 0 Parking_Type 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Location Location 0 0 0 0 0 0 
+0 0 0 0 0 Duration Duration 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 0 0 Location 
+0 0 0 0 Distance_Reference 0 0 Location 
+0 0 0 Parking_Type Distance_Reference 0 0 0 
+0 0 0 0 0 0 Location 
+0 0 0 0 Location 
+0 0 0 Location Calendarx Calendarx Calendarx 
+0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 Price_Reference 
+0 0 0 Location_Reference 0 0 0 
+0 0 0 Location_Reference 0 Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Location Location 
+0 0 0 0 Location Location 
+Parking_Type 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 0 Location 0 Parking_Type 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 Parking_Type 0 
+Price_Reference 0 0 0 Location Location 
+Distance_Reference Parking_Type Parking_Type 0 
+Distance_Reference 0 0 0 Location Location 
+0 0 0 0 Parking_Type 0 0 Price_Reference Price_Reference 
+0 0 0 0 0 0 0 0 0 0 Calendarx 
+Price_Reference 0 0 Location 
+0 0 0 Distance_Reference 0 0 0 Location 
+Distance_Reference Duration Duration 0 
+0 0 Parking_Type 0 0 Location 
+Price_Reference 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 
+0 0 0 Price_Reference 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 Parking_Type 0 Location_Reference 
+0 0 0 0 0 Parking_Type 0 0 0 Distance_Number Distance_Unit 
+0 0 0 0 0 0 Location 0 Amount 
+0 0 0 Price_Reference 0 0 0 0 0 Location Location Calendarx 
+0 0 0 0 0 0 0 Location 
+0 0 0 Price_Reference 0 Parking_Type Location_Reference 
+Distance_Reference 0 Parking_Type 0 Location_Reference Location_Reference 
+0 0 0 Parking_Type 0 0 0 Location Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+Distance_Reference 0 0 0 
+0 0 0 0 0 Location 
+Distance_Reference 0 0 0 Amount 
+Distance_Reference 0 Parking_Type 0 0 0 Price_Reference 
+0 0 0 0 0 0 Location 
+0 0 0 0 Parking_Type 0 0 Duration Duration 0 
+0 0 0 0 Parking_Type 0 0 Distance_Number Distance_Unit 0 0 Location Location 
+0 0 0 Parking_Type 0 Distance_Number Distance_Unit 
+0 0 0 0 Parking_Type 0 0 0 0 Amount 0 0 
+0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 Parking_Type 0 Amount 
+0 0 0 0 0 0 0 Location 
+0 0 0 0 0 0 0 Location Location 0 Distance_Reference Distance_Reference 
+0 0 0 0 Location_Reference 0 0 Price_Reference Price_Reference 0 0 
+0 0 Parking_Type 0 0 0 0 0 0 Location Location Location Location Calendarx 
+0 0 0 0 0 0 0 0 0 0 0 0 Price_Reference 
+Distance_Reference 0 0 Location Location Location 
+Distance_Reference Location 0 
+Distance_Reference 0 Parking_Type 
+Distance_Reference Parking_Type 0 
+Distance_Reference Parking_Type 0 
+0 0 0 0 Location 
+0 0 0 Location 
+0 0 0 0 Price_Reference 0 Parking_Type 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 Parking_Type 0 0 Location_Reference Location_Reference 
+0 0 0 Location_Reference 0 Amount Amount 
+0 0 0 0 0 0 0 0 Location_Reference 
+0 0 0 0 Parking_Type 0 0 0 Location_Reference 
+0 0 0 0 0 0 0 0 0 0 0 Location Location Location Location Location 
+0 0 0 0 0 Calendarx Calendarx Calendarx 
+0 0 0 0 0 0 0 Location Location Location 
+0 0 0 0 0 0 0 Parking_Type 0 0 Location 
+0 0 0 0 Parking_Type 0 
+0 0 0 Amount 
+Parking_Type 0 0 0 Distance_Number Distance_Unit 0 0 Location Location 0 Calendarx Calendarx Calendarx 
+Calendarx Calendarx Calendarx Calendarx 0 0 0 0 Parking_Type 0 Location 
+0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 
+0 Parking_Type 0 
+0 0 0 
+0 Price_Reference 0 0 Location Location 
+0 Parking_Type 0 0 Amount Price_Reference Price_Reference 
+0 Price_Reference Parking_Type 0 
+0 Parking_Type 0 Location_Reference 
+0 Parking_Type 0 
+0 Distance_Reference 0 Parking_Type 
+0 Distance_Reference Parking_Type 
+0 0 Price_Reference 0 
+0 Price_Reference 0 0 0 Location 
+0 Parking_Type Distance_Reference Location_Reference Location_Reference 
+0 Distance_Reference 0 Parking_Type 0 Location Location 
+0 Location 0 0 
+0 0 0 0 0 0 0 Calendarx Calendarx Calendarx Calendarx Calendarx Calendarx 

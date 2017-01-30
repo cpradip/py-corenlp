@@ -1,0 +1,3 @@
+lowest	PRICE
+[{ner:LOCATION}]	PRICE
+expensive	PRICE

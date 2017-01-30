@@ -1,10 +1,8 @@
 from pycorenlp import StanfordCoreNLP
 
-if __name__ == '__main__':
-    f_raw = open('data/trainRaw.txt', 'r')
+def get_entities(text):
     nlp = StanfordCoreNLP('http://localhost:9000')
-    text = (
-        'where is the nearest open lot')
+    entitites_list = {}
     
     output = nlp.annotate(text, properties={
         'annotators': 'tokenize, ssplit, truecase, pos, lemma, ner, regexner,entitymentions', #'tokenize,ssplit,pos,depparse,parse',
@@ -23,16 +21,20 @@ if __name__ == '__main__':
         for j in range(0, entity_len):
             k = 1
             #print(output['sentences'][i]['tokens'][j]['originalText'] + ' : ' + output['sentences'][i]['tokens'][j]['pos'])
-            print(output['sentences'][i]['entitymentions'][j]['text'] + ' : ' + output['sentences'][i]['entitymentions'][j]['ner'])
+            #print(output['sentences'][i]['entitymentions'][j]['text'] + ' : ' + output['sentences'][i]['entitymentions'][j]['ner'])
+            entitites_list[output['sentences'][i]['entitymentions'][j]['text']] = output['sentences'][i]['entitymentions'][j]['ner']
 
-    #print(output)
-    #print(output['sentences'][0]['parse'])
-    #print(output['sentences'][0]['tokens'][7]['ner'])
-    #print(output['sentences'][0]['entitymentions'][2]['text'] + ' : ' + output['sentences'][0]['entitymentions'][2]['ner'])
-    #print(len(output['sentences'][0]['tokens']))
+    return entitites_list
+
+if __name__ == '__main__':
+    f_raw = open('data/trainRaw.txt', 'r')
+    k = 1
+
+    for line_raw in f_raw:
+        entitites_list = get_entities(line_raw)
+        print("..........................  " + str(k) + "  ...........................")
+        for key, value in entitites_list.iteritems():
+            print(key + " : " + value)
+
+        k += 1
     
-    #output = nlp.tokensregex(text, pattern='/buddhism|last/', filter=False)
-    #print(output)
-    
-    #output = nlp.semgrex(text, pattern='{tag: VBD}', filter=False)
-    #print(output)
