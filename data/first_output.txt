@@ -1,0 +1,6140 @@
+..........................  1  ...........................
+nearest : Distance_Reference
+place : Location
+cheapest : Price_Reference
+..........................  2  ...........................
+nearest : Distance_Reference
+lot : Parking_Type
+parking : Location
+..........................  3  ...........................
+lot : Parking_Type
+public : Location
+closest : Distance_Reference
+hnl : Location
+..........................  4  ...........................
+street : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  5  ...........................
+closest : Distance_Reference
+..........................  6  ...........................
+least expensive : Price_Reference
+parking : Location
+New Brunswick : LOCATION
+valet : Parking_Type
+..........................  7  ...........................
+garage : Parking_Type
+least expensive : Price_Reference
+near my destination : Location_Reference
+parking : Location
+..........................  8  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+parking : Location
+..........................  9  ...........................
+nearest : Distance_Reference
+lot : Parking_Type
+..........................  10  ...........................
+nearest : Distance_Reference
+free : Price_Reference
+parking space : Location
+..........................  11  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+..........................  12  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+..........................  13  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+..........................  14  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+lot : Parking_Type
+parking : Location
+..........................  15  ...........................
+nearest : Distance_Reference
+parking : Location
+garage : Parking_Type
+..........................  16  ...........................
+past : DATE
+nearest : Distance_Reference
+midnight : TIME
+lot : Parking_Type
+..........................  17  ...........................
+nearest : Distance_Reference
+parking : Location
+15 : NUMBER
+or : Duration
+valet : Parking_Type
+..........................  18  ...........................
+nearest : Distance_Reference
+parking : Location
+..........................  19  ...........................
+nearest : Distance_Reference
+..........................  20  ...........................
+nearest : Distance_Reference
+parking : Location
+..........................  21  ...........................
+nearest : Distance_Reference
+street : Parking_Type
+parking : Location
+..........................  22  ...........................
+..........................  23  ...........................
+nearest : Distance_Reference
+free : Price_Reference
+parking : Location
+..........................  24  ...........................
+garage : Parking_Type
+parking : Location
+..........................  25  ...........................
+around here : Location_Reference
+parking : Location
+..........................  26  ...........................
+parking space : Location
+..........................  27  ...........................
+street : Parking_Type
+free : Price_Reference
+parking : Location
+..........................  28  ...........................
+garage : Parking_Type
+nearby : Location_Reference
+parking : Location
+..........................  29  ...........................
+..........................  30  ...........................
+nearest : Distance_Reference
+area : Location_Reference
+parking : Location
+..........................  31  ...........................
+am : Location_Reference
+right now : DATE
+ramp : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  32  ...........................
+restaurant : Location
+near : Location_Reference
+parking : Location
+valet : Parking_Type
+..........................  33  ...........................
+going : Location_Reference
+stadium : Location
+..........................  34  ...........................
+from : Calendarx
+10 am : TIME
+2 PM : TIME
+..........................  35  ...........................
+parking : Location
+lot : Parking_Type
+closest : Distance_Reference
+cheapest : Price_Reference
+..........................  36  ...........................
+parking : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  37  ...........................
+nearby : Location_Reference
+place : Location
+cheapest : Price_Reference
+..........................  38  ...........................
+and : TIME
+noon : TIME
+4 : TIME
+lot : Parking_Type
+parking : Location
+pm : TIME
+..........................  39  ...........................
+airport parking : Location
+inexpensive : Price_Reference
+location : Location_Reference
+..........................  40  ...........................
+from : Calendarx
+here : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  41  ...........................
+lowest : Price_Reference
+garage : Parking_Type
+rate : Price_Reference
+hourly : SET
+..........................  42  ...........................
+BOB : ORGANIZATION
+Grand Rapids : LOCATION
+closest : Distance_Reference
+parking : Location
+..........................  43  ...........................
+from : Calendarx
+lasting until : Calendarx
+11 pm : TIME
+garage : Parking_Type
+parking : Location
+5 am : TIME
+..........................  44  ...........................
+not : Parking_Type
+five dollars : MONEY
+charge : Price_Reference
+more : Duration
+parking : Location
+..........................  45  ...........................
+4 dollars : MONEY
+lot : Parking_Type
+parking : Location
+..........................  46  ...........................
+a : Distance_Number
+lots : Parking_Type
+my destination : Location_Reference
+mile : Distance_Unit
+are : Location_Reference
+parking : Location
+..........................  47  ...........................
+8 PM : TIME
+parking : Location
+5 pm : TIME
+valet : Parking_Type
+..........................  48  ...........................
+closest : Distance_Reference
+parking space : Location
+..........................  49  ...........................
+a : Distance_Number
+parking space : Location
+..........................  50  ...........................
+a : Distance_Number
+cheap : Price_Reference
+this area : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  51  ...........................
+tonight : DATE
+..........................  52  ...........................
+a : Distance_Number
+city : Location
+10 pm : TIME
+garage : Parking_Type
+5 : NUMBER
+parking : Location
+..........................  53  ...........................
+1 : NUMBER
+mile : Distance_Unit
+..........................  54  ...........................
+a : Distance_Number
+near : Location_Reference
+duper : Location
+..........................  55  ...........................
+3 : NUMBER
+..........................  56  ...........................
+a : Distance_Number
+from : Calendarx
+12 am : TIME
+place : Location
+5 pm : TIME
+..........................  57  ...........................
+near : Location_Reference
+street : Parking_Type
+stadium : Location
+parking : Location
+..........................  58  ...........................
+a : Distance_Number
+two : NUMBER
+current : DATE
+location : Location_Reference
+my : Location_Reference
+block : Distance_Unit
+..........................  59  ...........................
+Houston Airport : LOCATION
+at : Calendarx
+..........................  60  ...........................
+overnight : TIME
+..........................  61  ...........................
+great : Location
+Ballpark : PERSON
+..........................  62  ...........................
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+..........................  63  ...........................
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+nearby : Location_Reference
+..........................  64  ...........................
+parking : Location
+Astoria : LOCATION
+cheapest : Price_Reference
+..........................  65  ...........................
+Aloha Stadium : LOCATION
+public parking : Location
+around : Location_Reference
+..........................  66  ...........................
+a : Distance_Number
+Miami : LOCATION
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+port : Location
+..........................  67  ...........................
+a : Distance_Number
+nearby : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  68  ...........................
+a : Distance_Number
+close : Location_Reference
+restaurant : Location
+parking space : Location
+..........................  69  ...........................
+parking : Location
+5 to 7 PM : TIME
+an : Price_Reference
+..........................  70  ...........................
+a : Distance_Number
+am going : Location_Reference
+place : Location
+closest : Distance_Reference
+..........................  71  ...........................
+free : Price_Reference
+parking : Location
+..........................  72  ...........................
+near : Location_Reference
+parking : Location
+school : Location
+cheapest : Price_Reference
+..........................  73  ...........................
+..........................  74  ...........................
+parking : Location
+metered : Parking_Type
+..........................  75  ...........................
+theater : Location
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  76  ...........................
+..........................  77  ...........................
+parking : Location
+this area : Location_Reference
+best : Price_Reference
+cheapest : Price_Reference
+..........................  78  ...........................
+6 am : TIME
+3 am : TIME
+from : Calendarx
+parking : Location
+..........................  79  ...........................
+8 to 10 pm : TIME
+parking : Location
+..........................  80  ...........................
+next 3 HOURS : DATE
+parking : Location
+..........................  81  ...........................
+near : Location_Reference
+Riverside Park : LOCATION
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  82  ...........................
+near : Location_Reference
+Dallas Airport : LOCATION
+parking : Location
+..........................  83  ...........................
+near : Location_Reference
+place : Location
+best : Price_Reference
+Times Square : LOCATION
+..........................  84  ...........................
+mall : Location
+at : Calendarx
+best : Price_Reference
+parking : Location
+..........................  85  ...........................
+after : Calendarx
+place : Location
+5 pm : TIME
+best : Price_Reference
+..........................  86  ...........................
+around here : Location_Reference
+place : Location
+best : Price_Reference
+..........................  87  ...........................
+near this location : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  88  ...........................
+town : Location
+garage : Parking_Type
+cheapest : Price_Reference
+..........................  89  ...........................
+garage : Parking_Type
+parking : Location
+cheapest : Price_Reference
+..........................  90  ...........................
+garage : Parking_Type
+parking : Location
+cheapest : Price_Reference
+..........................  91  ...........................
+parking : Location
+near me : Location_Reference
+cheapest : Price_Reference
+..........................  92  ...........................
+parking : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  93  ...........................
+near : Location_Reference
+parking : Location
+football game : Location
+cheapest : Price_Reference
+..........................  94  ...........................
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  95  ...........................
+mission district : Location
+20 : NUMBER
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  96  ...........................
+me : Location_Reference
+lot : Parking_Type
+closest : Distance_Reference
+..........................  97  ...........................
+public : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  98  ...........................
+nearest : Distance_Reference
+overnight : TIME
+garage : Parking_Type
+..........................  99  ...........................
+lot : Parking_Type
+closest : Distance_Reference
+cheapest : Price_Reference
+..........................  100  ...........................
+free : Price_Reference
+closest : Distance_Reference
+parking : Location
+..........................  101  ...........................
+2 : NUMBER
+block : Distance_Unit
+closest : Distance_Reference
+parking : Location
+..........................  102  ...........................
+closest : Distance_Reference
+parking : Location
+..........................  103  ...........................
+free : Price_Reference
+closest : Distance_Reference
+parking space : Location
+..........................  104  ...........................
+closest : Distance_Reference
+parking : Location
+..........................  105  ...........................
+Georgia Dome : LOCATION
+closest : Distance_Reference
+parking : Location
+..........................  106  ...........................
+closest : Distance_Reference
+parking : Location
+..........................  107  ...........................
+my building : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  108  ...........................
+3 pm : TIME
+at : Calendarx
+closest : Distance_Reference
+parking : Location
+..........................  109  ...........................
+Chipotle : PERSON
+by : Location_Reference
+..........................  110  ...........................
+9 AM : TIME
+7 am : TIME
+..........................  111  ...........................
+midnight : TIME
+near : Location_Reference
+7 pm : TIME
+Civic Center : MISC
+..........................  112  ...........................
+and : TIME
+noon : TIME
+5 : TIME
+pm : TIME
+..........................  113  ...........................
+1 : NUMBER
+the hours : DURATION
+3 PM : TIME
+..........................  114  ...........................
+by here : Location_Reference
+..........................  115  ...........................
+all : Duration
+day : DURATION
+..........................  116  ...........................
+a day : DURATION
+..........................  117  ...........................
+around here : Location_Reference
+5 : NUMBER
+..........................  118  ...........................
+cheap : Price_Reference
+..........................  119  ...........................
+cheap : Price_Reference
+by : Location_Reference
+Oakland Colisuem : ORGANIZATION
+..........................  120  ...........................
+..........................  121  ...........................
+5 pm : TIME
+noon : TIME
+from : Calendarx
+until : Calendarx
+free : Price_Reference
+..........................  122  ...........................
+near : Location_Reference
+airport : Location
+free : Price_Reference
+..........................  123  ...........................
+1 pm : TIME
+from : Calendarx
+4 PM : TIME
+..........................  124  ...........................
+10 : NUMBER
+..........................  125  ...........................
+all : Duration
+30 : NUMBER
+day : DURATION
+parking : Location
+..........................  126  ...........................
+7 pm : TIME
+reservation : Parking_Type
+my : Location_Reference
+at : Calendarx
+restaurant : Location
+..........................  127  ...........................
+500 : NUMBER
+..........................  128  ...........................
+114 : NUMBER
+from : Calendarx
+pm : Calendarx
+..........................  129  ...........................
+airport : Location
+..........................  130  ...........................
+1 am : TIME
+from : Calendarx
+5 AM : TIME
+..........................  131  ...........................
+9 PM : TIME
+6 pm : TIME
+from : Calendarx
+..........................  132  ...........................
+3 pm : TIME
+from : Calendarx
+4 PM : TIME
+..........................  133  ...........................
+6 am : TIME
+8 AM : TIME
+from : Calendarx
+..........................  134  ...........................
+8 am : TIME
+from : Calendarx
+2 PM : TIME
+..........................  135  ...........................
+3 PM : TIME
+8 am : TIME
+from : Calendarx
+..........................  136  ...........................
+8 am : TIME
+from : Calendarx
+until : Calendarx
+4 PM : TIME
+..........................  137  ...........................
+8 pm : TIME
+from : Calendarx
+..........................  138  ...........................
+9 am : TIME
+from : Calendarx
+11 am : TIME
+..........................  139  ...........................
+8 pm : TIME
+12 PM : TIME
+from : Calendarx
+..........................  140  ...........................
+Harbor Yard Stadium : LOCATION
+near : Location_Reference
+..........................  141  ...........................
+midnight : TIME
+am : TIME
+5 : TIME
+from : Calendarx
+to : TIME
+..........................  142  ...........................
+near : Location_Reference
+stadium : Location
+..........................  143  ...........................
+on : Calendarx
+1 PM : TIME
+my : Location_Reference
+4 PM : TIME
+film : Location
+..........................  144  ...........................
+noon : TIME
+from : Calendarx
+dusk : Calendarx
+..........................  145  ...........................
+near : Location_Reference
+..........................  146  ...........................
+noon : TIME
+from : Calendarx
+three : NUMBER
+..........................  147  ...........................
+noon : TIME
+from : Calendarx
+until : Calendarx
+6 : NUMBER
+..........................  148  ...........................
+near : Location_Reference
+Applebees : LOCATION
+..........................  149  ...........................
+on : Calendarx
+street : Parking_Type
+..........................  150  ...........................
+White House : LOCATION
+near : Location_Reference
+..........................  151  ...........................
+near : Location_Reference
+..........................  152  ...........................
+Thursday : DATE
+morning : TIME
+..........................  153  ...........................
+club : Location
+on : Calendarx
+near : Location_Reference
+street : Parking_Type
+..........................  154  ...........................
+overnight : TIME
+..........................  155  ...........................
+10 pm : TIME
+from : Calendarx
+overnight : TIME
+6 am : TIME
+..........................  156  ...........................
+Wilson Hospital : LOCATION
+near : Location_Reference
+..........................  157  ...........................
+JFK AIRPORT : LOCATION
+near : Location_Reference
+..........................  158  ...........................
+from : Calendarx
+5 AM : TIME
+2 pm : TIME
+..........................  159  ...........................
+nearby : Location_Reference
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  160  ...........................
+downtown parking : Location
+cheapest deal : Price_Reference
+..........................  161  ...........................
+a : Distance_Number
+lot : Parking_Type
+parking : Location
+..........................  162  ...........................
+cheap : Price_Reference
+area : Location_Reference
+..........................  163  ...........................
+DALLAS : LOCATION
+..........................  164  ...........................
+garage : Parking_Type
+restaurant : Location
+closest : Distance_Reference
+parking : Location
+..........................  165  ...........................
+airport : Location
+closest : Distance_Reference
+parking : Location
+..........................  166  ...........................
+noon : TIME
+10 am : TIME
+closest : Distance_Reference
+..........................  167  ...........................
+airport : Location
+cost : Price_Reference
+at : Calendarx
+..........................  168  ...........................
+garage : Parking_Type
+near : Location_Reference
+least expensive : Price_Reference
+Ward Stadium : LOCATION
+..........................  169  ...........................
+near : Location_Reference
+Tampa Theater : LOCATION
+are : Location_Reference
+parking : Location
+..........................  170  ...........................
+Corpus Christi International Airport : LOCATION
+near : Location_Reference
+are : Location_Reference
+parking : Location
+..........................  171  ...........................
+..........................  172  ...........................
+near : Location_Reference
+Burbank Airport : LOCATION
+are : Location_Reference
+parking : Location
+..........................  173  ...........................
+..........................  174  ...........................
+price : Price_Reference
+here : Location_Reference
+..........................  175  ...........................
+from : Calendarx
+6 pm : TIME
+are : Location_Reference
+parking : Location
+3 pm : TIME
+until : Calendarx
+..........................  176  ...........................
+my destination : Location_Reference
+on : Calendarx
+street : Parking_Type
+parking : Location
+..........................  177  ...........................
+15 : NUMBER
+are : Location_Reference
+parking : Location
+..........................  178  ...........................
+lots : Parking_Type
+parking : Location
+are : Location_Reference
+cheapest : Price_Reference
+..........................  179  ...........................
+a : Distance_Number
+San Jose Right : LOCATION
+near : Location_Reference
+now : DATE
+Japanese Friendship Garden : LOCATION
+parking space : Location
+..........................  180  ...........................
+a : Distance_Number
+mile : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  181  ...........................
+a : Distance_Number
+nearby : Location_Reference
+meter : Parking_Type
+parking : Location
+..........................  182  ...........................
+3 pm : TIME
+9 PM : TIME
+from : Calendarx
+parking : Location
+..........................  183  ...........................
+free : Price_Reference
+parking : Location
+..........................  184  ...........................
+overnight : TIME
+parking : Location
+..........................  185  ...........................
+8 am : TIME
+at : Calendarx
+parking : Location
+..........................  186  ...........................
+2 pm : TIME
+at : Calendarx
+tenderloin : Location
+parking : Location
+..........................  187  ...........................
+cheap : Price_Reference
+parking : Location
+..........................  188  ...........................
+9 : NUMBER
+from : Calendarx
+5 : NUMBER
+my : Location_Reference
+to : NUMBER
+..........................  189  ...........................
+7 PM : TIME
+from : Calendarx
+5 pm : TIME
+parking : Location
+..........................  190  ...........................
+9 pm : TIME
+after : Calendarx
+..........................  191  ...........................
+nearby : Location_Reference
+meter : Parking_Type
+parking : Location
+..........................  192  ...........................
+downtown : Location
+..........................  193  ...........................
+night : TIME
+parking : Location
+..........................  194  ...........................
+3 to 6 PM : TIME
+parking : Location
+..........................  195  ...........................
+best deal : Price_Reference
+fro parking : Location
+Las Olas : LOCATION
+..........................  196  ...........................
+free : Price_Reference
+parking : Location
+..........................  197  ...........................
+usher concert : Location
+parking : Location
+..........................  198  ...........................
+10 : NUMBER
+all : Duration
+day : DURATION
+..........................  199  ...........................
+all : Duration
+work : Location_Reference
+9 am : TIME
+6 pm : TIME
+at : Calendarx
+day : DURATION
+..........................  200  ...........................
+all : Duration
+20 : NUMBER
+day : DURATION
+..........................  201  ...........................
+11 am : TIME
+9 PM : TIME
+..........................  202  ...........................
+close : Location_Reference
+hospital : Location
+..........................  203  ...........................
+bucks : Amount
+20 : NUMBER
+or : Duration
+..........................  204  ...........................
+close : Location_Reference
+6TH : ORDINAL
+starbucks : Location
+on : Calendarx
+..........................  205  ...........................
+a : Distance_Number
+at : Calendarx
+lowest rate : Price_Reference
+..........................  206  ...........................
+airport : Location
+at : Calendarx
+..........................  207  ...........................
+near : Location_Reference
+speedway : Location
+..........................  208  ...........................
+Fondue Lake : LOCATION
+at : Calendarx
+..........................  209  ...........................
+3 PM : TIME
+1 pm : TIME
+..........................  210  ...........................
+near my destination : Location_Reference
+parking : Location
+..........................  211  ...........................
+down : Location
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+..........................  212  ...........................
+down parking : Location
+near : Location_Reference
+Manns Chinese : MISC
+theatre : Location
+..........................  213  ...........................
+cheap : Price_Reference
+Manhattan : LOCATION
+parking : Location
+..........................  214  ...........................
+my area : Location_Reference
+parking : Location
+..........................  215  ...........................
+..........................  216  ...........................
+close : Location_Reference
+as : Distance_Reference
+at : Calendarx
+as possible : Distance_Reference
+Kings Dominion : ORGANIZATION
+..........................  217  ...........................
+a : Distance_Number
+walking : Distance_Reference
+parking space : Location
+..........................  218  ...........................
+near : Location_Reference
+venue : Location
+parking : Location
+..........................  219  ...........................
+are : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  220  ...........................
+Camden : LOCATION
+at : Calendarx
+yards : Location
+parking : Location
+Baltimore Maryland : LOCATION
+Oriole Park : LOCATION
+..........................  221  ...........................
+destination : Location_Reference
+closest : Distance_Reference
+..........................  222  ...........................
+San Jose Airport : LOCATION
+at : Calendarx
+..........................  223  ...........................
+airport : Location
+at : Calendarx
+..........................  224  ...........................
+SEATAC AIRPORT : ORGANIZATION
+at : Calendarx
+are my : Location_Reference
+parking : Location
+..........................  225  ...........................
+2 pm : TIME
+from : Calendarx
+5 PM : TIME
+are my : Location_Reference
+parking : Location
+..........................  226  ...........................
+near : Location_Reference
+hospital : Location
+..........................  227  ...........................
+parking : Location
+are : Location_Reference
+cheapest : Price_Reference
+..........................  228  ...........................
+lots : Parking_Type
+10 : NUMBER
+parking : Location
+are : Location_Reference
+cheapest : Price_Reference
+..........................  229  ...........................
+cheap : Price_Reference
+are : Location_Reference
+area : Location_Reference
+..........................  230  ...........................
+parking : Location
+my : Location_Reference
+Capital Hill : LOCATION
+best : Price_Reference
+cheapest : Price_Reference
+..........................  231  ...........................
+parking : Location
+rates : Price_Reference
+are : Location_Reference
+this area : Location_Reference
+cheapest : Price_Reference
+..........................  232  ...........................
+garages : Parking_Type
+near : Location_Reference
+Hancock Airport : LOCATION
+are : Location_Reference
+parking : Location
+..........................  233  ...........................
+me : Location_Reference
+around here : Location_Reference
+parking : Location
+..........................  234  ...........................
+cost : Price_Reference
+from : Calendarx
+4 PM : TIME
+10 am : TIME
+at : Calendarx
+..........................  235  ...........................
+1 pm : TIME
+cost : Price_Reference
+5 PM : TIME
+..........................  236  ...........................
+here : Location_Reference
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  237  ...........................
+..........................  238  ...........................
+noon : TIME
+place : Location
+at : Calendarx
+best : Price_Reference
+..........................  239  ...........................
+least expensive : Price_Reference
+3 : NUMBER
+near : Location_Reference
+at : Calendarx
+parking : Location
+Peachstreet Boulevard : LOCATION
+today : DATE
+..........................  240  ...........................
+this : Location_Reference
+reserve : Parking_Type
+closest : Distance_Reference
+parking space : Location
+..........................  241  ...........................
+garage : Parking_Type
+this area : Location_Reference
+cheapest : Price_Reference
+..........................  242  ...........................
+grand rapids : Location
+parking place : Location
+cheapest : Price_Reference
+..........................  243  ...........................
+garage : Parking_Type
+closest : Distance_Reference
+..........................  244  ...........................
+to : NUMBER
+2 : NUMBER
+from : Calendarx
+6 : NUMBER
+..........................  245  ...........................
+on : Calendarx
+rate : Price_Reference
+nearby : Location_Reference
+meters : Parking_Type
+parking : Location
+..........................  246  ...........................
+nearby : Location_Reference
+expensive : Price_Reference
+parking : Location
+..........................  247  ...........................
+price : Price_Reference
+hotel parking : Location
+area : Location_Reference
+..........................  248  ...........................
+nearest : Distance_Reference
+at : Calendarx
+5 pm : TIME
+garage : Parking_Type
+..........................  249  ...........................
+lower east side : Location
+on : Calendarx
+Cleveland : LOCATION
+restaurants : Location
+..........................  250  ...........................
+..........................  251  ...........................
+from : Calendarx
+AM : TIME
+midnight : TIME
+to : TIME
+5 : TIME
+parking : Location
+..........................  252  ...........................
+10 : NUMBER
+parking : Location
+..........................  253  ...........................
+Chipotle : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  254  ...........................
+me : Location_Reference
+the next four hours : DURATION
+..........................  255  ...........................
+..........................  256  ...........................
+lots : Parking_Type
+8 am : TIME
+12 pm : TIME
+are : Location_Reference
+parking : Location
+..........................  257  ...........................
+near : Location_Reference
+Gulf State Park : LOCATION
+parking : Location
+..........................  258  ...........................
+from : Calendarx
+lots : Parking_Type
+noon : TIME
+parking : Location
+to : TIME
+6 : TIME
+pm : TIME
+..........................  259  ...........................
+nearby : Location_Reference
+parking : Location
+..........................  260  ...........................
+at : Calendarx
+roanoke : Location
+International Airport : LOCATION
+are : Location_Reference
+parking : Location
+..........................  261  ...........................
+3 : NUMBER
+Malone Performing Arts Center : ORGANIZATION
+blocks : Distance_Unit
+parking : Location
+..........................  262  ...........................
+lots : Parking_Type
+UNC CAMPUS : LOCATION
+near : Location_Reference
+are : Location_Reference
+parking : Location
+..........................  263  ...........................
+before : Calendarx
+5 am : TIME
+lot : Parking_Type
+parking : Location
+..........................  264  ...........................
+lowest rates : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  265  ...........................
+me : Location_Reference
+garage : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  266  ...........................
+me : Location_Reference
+3 : NUMBER
+parking : Location
+..........................  267  ...........................
+me : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  268  ...........................
+..........................  269  ...........................
+me : Location_Reference
+parking : Location
+nearby : Location_Reference
+cheapest : Price_Reference
+..........................  270  ...........................
+me : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  271  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+garage : Parking_Type
+parking : Location
+..........................  272  ...........................
+me : Location_Reference
+near : Location_Reference
+Gulf State Park : LOCATION
+parking : Location
+..........................  273  ...........................
+me : Location_Reference
+10 : NUMBER
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  274  ...........................
+..........................  275  ...........................
+me : Location_Reference
+closest : Distance_Reference
+parking space : Location
+..........................  276  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+5 : NUMBER
+parking : Location
+..........................  277  ...........................
+me : Location_Reference
+we are : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  278  ...........................
+me : Location_Reference
+cheap : Price_Reference
+super : Location
+parking : Location
+..........................  279  ...........................
+me : Location_Reference
+lots : Parking_Type
+10 : NUMBER
+..........................  280  ...........................
+me : Location_Reference
+Oklahoma University : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  281  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+garage : Parking_Type
+..........................  282  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+lot : Parking_Type
+parking : Location
+..........................  283  ...........................
+me : Location_Reference
+garages : Parking_Type
+area : Location_Reference
+parking : Location
+..........................  284  ...........................
+me : Location_Reference
+30 dollars : MONEY
+my : Location_Reference
+..........................  285  ...........................
+me : Location_Reference
+..........................  286  ...........................
+me : Location_Reference
+from : Calendarx
+my : Location_Reference
+5 PM : TIME
+9 am : TIME
+..........................  287  ...........................
+me : Location_Reference
+midnight : TIME
+at : Calendarx
+..........................  288  ...........................
+afternoon : TIME
+free : Price_Reference
+parking : Location
+..........................  289  ...........................
+me : Location_Reference
+near : Location_Reference
+Yankee Stadium : LOCATION
+..........................  290  ...........................
+me : Location_Reference
+lot : Parking_Type
+free : Price_Reference
+closest : Distance_Reference
+parking : Location
+..........................  291  ...........................
+me : Location_Reference
+near : Location_Reference
+Grant Park : LOCATION
+..........................  292  ...........................
+on : Calendarx
+highest : Price_Reference
+price lowest : Price_Reference
+parking : Location
+..........................  293  ...........................
+close : Location_Reference
+my work : Location_Reference
+parking : Location
+..........................  294  ...........................
+nearest : Distance_Reference
+two : NUMBER
+free : Price_Reference
+parking : Location
+..........................  295  ...........................
+area : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  296  ...........................
+1PM : TIME
+..........................  297  ...........................
+8 PM : TIME
+2 pm : TIME
+parking : Location
+..........................  298  ...........................
+me : Location_Reference
+a : Distance_Number
+5 : NUMBER
+garage : Parking_Type
+..........................  299  ...........................
+..........................  300  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+..........................  301  ...........................
+..........................  302  ...........................
+me : Location_Reference
+..........................  303  ...........................
+..........................  304  ...........................
+me : Location_Reference
+..........................  305  ...........................
+..........................  306  ...........................
+me : Location_Reference
+a : Distance_Number
+place : Location
+cheap : Price_Reference
+parking : Location
+..........................  307  ...........................
+me : Location_Reference
+a : Distance_Number
+closest : Distance_Reference
+garage : Parking_Type
+space needle : Location
+parking : Location
+Seattle : LOCATION
+..........................  308  ...........................
+me : Location_Reference
+a : Distance_Number
+place : Location
+10 : NUMBER
+parking : Location
+..........................  309  ...........................
+me : Location_Reference
+garage : Parking_Type
+closest : Distance_Reference
+..........................  310  ...........................
+..........................  311  ...........................
+me : Location_Reference
+20 : NUMBER
+or : Duration
+parking : Location
+..........................  312  ...........................
+me : Location_Reference
+garage : Parking_Type
+parking : Location
+cheapest : Price_Reference
+..........................  313  ...........................
+me : Location_Reference
+2 : NUMBER
+parking : Location
+cheapest : Price_Reference
+..........................  314  ...........................
+me : Location_Reference
+parking : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  315  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+three : NUMBER
+parking : Location
+..........................  316  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+free : Price_Reference
+current : DATE
+street : Parking_Type
+five : NUMBER
+location : Location_Reference
+parking : Location
+my : Location_Reference
+..........................  317  ...........................
+me : Location_Reference
+lot : Parking_Type
+closest : Distance_Reference
+..........................  318  ...........................
+me : Location_Reference
+from : Calendarx
+2 pm : TIME
+..........................  319  ...........................
+me : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  320  ...........................
+me : Location_Reference
+lot : Parking_Type
+expensive : Price_Reference
+parking : Location
+..........................  321  ...........................
+me : Location_Reference
+San Jose Amtrak Train Station : LOCATION
+are : Location_Reference
+parking : Location
+..........................  322  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+10 : NUMBER
+per : Price_Reference
+garage : Parking_Type
+day : DURATION
+..........................  323  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+garage : Parking_Type
+parking : Location
+..........................  324  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+public parking : Location
+lot : Parking_Type
+..........................  325  ...........................
+12 : NUMBER
+Today 10 am : DATE
+my : Location_Reference
+near : Location_Reference
+school : Location
+..........................  326  ...........................
+on : Calendarx
+blocks : Distance_Unit
+price : Price_Reference
+2 : NUMBER
+parking : Location
+are my : Location_Reference
+..........................  327  ...........................
+garage : Parking_Type
+walking distance : Distance_Reference
+parking : Location
+..........................  328  ...........................
+me : Location_Reference
+3 PM : TIME
+from : Calendarx
+2 pm : TIME
+..........................  329  ...........................
+me : Location_Reference
+near : Location_Reference
+Grant Park : LOCATION
+..........................  330  ...........................
+..........................  331  ...........................
+on : Calendarx
+street : Parking_Type
+at : Calendarx
+BLACKSBURG CLINIC : ORGANIZATION
+parking : Location
+..........................  332  ...........................
+near : Location_Reference
+parking : Location
+..........................  333  ...........................
+near : Location_Reference
+..........................  334  ...........................
+10 : NUMBER
+parking : Location
+..........................  335  ...........................
+2 : NUMBER
+blocks : Distance_Unit
+parking : Location
+..........................  336  ...........................
+Redmond Hospital : ORGANIZATION
+walking distance : Distance_Reference
+parking : Location
+..........................  337  ...........................
+from : Calendarx
+8 am : TIME
+reserved : Parking_Type
+5 PM : TIME
+parking : Location
+..........................  338  ...........................
+near me : Location_Reference
+reserved : Parking_Type
+parking : Location
+..........................  339  ...........................
+street : Parking_Type
+at : Calendarx
+Union Square : LOCATION
+parking : Location
+..........................  340  ...........................
+street : Parking_Type
+near me : Location_Reference
+parking : Location
+..........................  341  ...........................
+near : Location_Reference
+restaurant : Location
+parking : Location
+..........................  342  ...........................
+..........................  343  ...........................
+Georgia Dome : LOCATION
+close : Location_Reference
+all : Duration
+parking : Location
+..........................  344  ...........................
+me : Location_Reference
+10 : NUMBER
+all : Duration
+are : Location_Reference
+parking : Location
+..........................  345  ...........................
+a : Distance_Number
+hotel : Location
+nearby : Location_Reference
+..........................  346  ...........................
+near my destination : Location_Reference
+parking : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  347  ...........................
+..........................  348  ...........................
+a : Distance_Number
+near : Location_Reference
+overnight : TIME
+lot : Parking_Type
+parking : Location
+..........................  349  ...........................
+a : Distance_Number
+reservation : Parking_Type
+lot : Parking_Type
+parking : Location
+..........................  350  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+..........................  351  ...........................
+nearest : Distance_Reference
+parking : Location
+..........................  352  ...........................
+me : Location_Reference
+15 : NUMBER
+parking : Location
+..........................  353  ...........................
+me : Location_Reference
+a : Distance_Number
+area : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  354  ...........................
+me : Location_Reference
+a : Distance_Number
+around : Location_Reference
+arena : Location
+parking space : Location
+..........................  355  ...........................
+me : Location_Reference
+200 : NUMBER
+all : Duration
+my destination : Location_Reference
+miles : Distance_Unit
+parking : Location
+..........................  356  ...........................
+me : Location_Reference
+a : Distance_Number
+free : Price_Reference
+..........................  357  ...........................
+me : Location_Reference
+a : Distance_Number
+current : DATE
+location : Location_Reference
+lot : Parking_Type
+parking : Location
+near my : Location_Reference
+..........................  358  ...........................
+me : Location_Reference
+all : Duration
+Dallas Airport : LOCATION
+near : Location_Reference
+parking : Location
+..........................  359  ...........................
+me : Location_Reference
+a : Distance_Number
+valet : Parking_Type
+this neighborhood : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  360  ...........................
+me : Location_Reference
+garage : Parking_Type
+all : Duration
+nearby : Location_Reference
+parking : Location
+..........................  361  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+here : Location_Reference
+mile : Distance_Unit
+parking : Location
+..........................  362  ...........................
+3 PM : TIME
+from : Calendarx
+2 pm : TIME
+..........................  363  ...........................
+me : Location_Reference
+30 : NUMBER
+parking : Location
+..........................  364  ...........................
+me : Location_Reference
+parking : Location
+..........................  365  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+2 hour : DURATION
+cheapest : Price_Reference
+garage : Parking_Type
+rate : Price_Reference
+parking : Location
+..........................  366  ...........................
+me : Location_Reference
+cheap : Price_Reference
+parking : Location
+..........................  367  ...........................
+me nearby : Location_Reference
+20 : NUMBER
+parking : Location
+..........................  368  ...........................
+me : Location_Reference
+free : Price_Reference
+closest : Distance_Reference
+parking : Location
+..........................  369  ...........................
+..........................  370  ...........................
+..........................  371  ...........................
+..........................  372  ...........................
+me : Location_Reference
+Columbia Airport : LOCATION
+near : Location_Reference
+parking : Location
+..........................  373  ...........................
+me : Location_Reference
+hospital : Location
+at : Calendarx
+parking : Location
+..........................  374  ...........................
+me : Location_Reference
+10 : NUMBER
+parking : Location
+..........................  375  ...........................
+me : Location_Reference
+2 PM : TIME
+from : Calendarx
+10 am : TIME
+parking : Location
+..........................  376  ...........................
+me : Location_Reference
+25 : NUMBER
+parking : Location
+..........................  377  ...........................
+me : Location_Reference
+Dallas Airport : LOCATION
+closest : Distance_Reference
+parking : Location
+..........................  378  ...........................
+me : Location_Reference
+..........................  379  ...........................
+..........................  380  ...........................
+me : Location_Reference
+garages : Parking_Type
+New Brunswick : LOCATION
+parking : Location
+..........................  381  ...........................
+me : Location_Reference
+lots : Parking_Type
+25 dollars : MONEY
+cost : Price_Reference
+parking : Location
+or : Duration
+..........................  382  ...........................
+me : Location_Reference
+on : Calendarx
+mornings : TIME
+downtown : Location
+parking : Location
+Saturday : DATE
+..........................  383  ...........................
+me : Location_Reference
+20 : NUMBER
+parking : Location
+..........................  384  ...........................
+me : Location_Reference
+8 PM : TIME
+from : Calendarx
+10 am : TIME
+parking : Location
+..........................  385  ...........................
+me : Location_Reference
+from : Calendarx
+am : TIME
+midnight : TIME
+to : TIME
+5 : TIME
+parking : Location
+..........................  386  ...........................
+me : Location_Reference
+11 am : TIME
+time from : Calendarx
+8 PM : TIME
+parking space : Location
+..........................  387  ...........................
+me : Location_Reference
+35 : NUMBER
+parking : Location
+..........................  388  ...........................
+a : Distance_Number
+me : Location_Reference
+lot : Parking_Type
+venues parking : Location
+..........................  389  ...........................
+a : Distance_Number
+12 : NUMBER
+near : Location_Reference
+th : Location
+parking : Location
+3 pm : TIME
+corner : Location
+..........................  390  ...........................
+a : Distance_Number
+my destination : Location_Reference
+parking : Location
+..........................  391  ...........................
+my destination : Location_Reference
+at : Calendarx
+..........................  392  ...........................
+me : Location_Reference
+a : Distance_Number
+Academy of Music : MISC
+8 pm this Saturday : DATE
+at : Calendarx
+parking space : Location
+..........................  393  ...........................
+a : Distance_Number
+garage : Parking_Type
+center city : Location
+parking : Location
+..........................  394  ...........................
+a : Distance_Number
+here : Location_Reference
+space : Location
+..........................  395  ...........................
+a : Distance_Number
+near destination : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  396  ...........................
+me : Location_Reference
+a : Distance_Number
+space : Location
+..........................  397  ...........................
+me : Location_Reference
+all : Duration
+5 : NUMBER
+parking : Location
+..........................  398  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+..........................  399  ...........................
+me : Location_Reference
+a : Distance_Number
+space : Location
+March 25th : DATE
+at 10 am : TIME
+at 2 pm : TIME
+lot : Parking_Type
+parking : Location
+March 22nd : DATE
+..........................  400  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+4 PM : TIME
+garage : Parking_Type
+1 PM : TIME
+..........................  401  ...........................
+parking : Location
+my work : Location_Reference
+closest : Distance_Reference
+Reserve Valet : ORGANIZATION
+..........................  402  ...........................
+me : Location_Reference
+1 : NUMBER
+cheapest : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  403  ...........................
+..........................  404  ...........................
+me : Location_Reference
+near : Location_Reference
+door : Location
+airport : Location
+parking : Location
+..........................  405  ...........................
+me : Location_Reference
+near : Location_Reference
+..........................  406  ...........................
+7 PM : TIME
+9 PM : TIME
+from : Calendarx
+space : Location
+..........................  407  ...........................
+..........................  408  ...........................
+me : Location_Reference
+my : Location_Reference
+are : Location_Reference
+parking : Location
+..........................  409  ...........................
+hotel : Location
+my : Location_Reference
+at : Calendarx
+parking space : Location
+..........................  410  ...........................
+near me : Location_Reference
+parking : Location
+..........................  411  ...........................
+near me : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  412  ...........................
+..........................  413  ...........................
+cheapest : Price_Reference
+..........................  414  ...........................
+8 pm this Saturday : DATE
+space : Location
+..........................  415  ...........................
+a : Distance_Number
+CURRENT : DATE
+a half : Distance_Number
+lot : Parking_Type
+parking : Location
+..........................  416  ...........................
+..........................  417  ...........................
+a : Distance_Number
+me close : Location_Reference
+reserve : Parking_Type
+..........................  418  ...........................
+6 pm : TIME
+..........................  419  ...........................
+me : Location_Reference
+from : Calendarx
+4 to 7pm : TIME
+closest : Distance_Reference
+free : Price_Reference
+parking : Location
+..........................  420  ...........................
+me : Location_Reference
+freeloaders bar : Location
+parking : Location
+..........................  421  ...........................
+..........................  422  ...........................
+..........................  423  ...........................
+a : Distance_Number
+miles : Distance_Unit
+5 : NUMBER
+free : Price_Reference
+parking : Location
+..........................  424  ...........................
+Roanoke Virginia : LOCATION
+Walmart : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  425  ...........................
+me : Location_Reference
+a : Distance_Number
+on : Calendarx
+an : Price_Reference
+garage : Parking_Type
+..........................  426  ...........................
+..........................  427  ...........................
+all : Duration
+from : Calendarx
+9 am : TIME
+we : Location_Reference
+5 PM : TIME
+parking : Location
+..........................  428  ...........................
+a : Distance_Number
+free : Price_Reference
+parking : Location
+..........................  429  ...........................
+parking place : Location
+15 : NUMBER
+..........................  430  ...........................
+nearest : Distance_Reference
+5 : NUMBER
+parking : Location
+..........................  431  ...........................
+25 : NUMBER
+parking : Location
+..........................  432  ...........................
+a : Distance_Number
+9 am : TIME
+from : Calendarx
+10 am : TIME
+parking : Location
+..........................  433  ...........................
+a : Distance_Number
+JFK : LOCATION
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  434  ...........................
+a : Distance_Number
+zoo : Location
+walking distance : Distance_Reference
+parking : Location
+..........................  435  ...........................
+pm : Calendarx
+530 : NUMBER
+at : Calendarx
+free : Price_Reference
+parking : Location
+..........................  436  ...........................
+..........................  437  ...........................
+a : Distance_Number
+parking : Location
+space : Location
+..........................  438  ...........................
+near me : Location_Reference
+parking : Location
+..........................  439  ...........................
+..........................  440  ...........................
+2 PM : TIME
+from : Calendarx
+10 AM : TIME
+parking : Location
+..........................  441  ...........................
+near : Location_Reference
+Dallas Airpot : LOCATION
+parking : Location
+..........................  442  ...........................
+9 AM : TIME
+from : Calendarx
+parking : Location
+..........................  443  ...........................
+Columbia Airport : LOCATION
+near : Location_Reference
+parking : Location
+..........................  444  ...........................
+this location : Location_Reference
+3 : NUMBER
+blocks : Distance_Unit
+..........................  445  ...........................
+300 : NUMBER
+feet : Distance_Unit
+or : Duration
+parking : Location
+..........................  446  ...........................
+all : Duration
+8 am : TIME
+until : Calendarx
+night : TIME
+..........................  447  ...........................
+Wayne Airport : LOCATION
+at : Calendarx
+..........................  448  ...........................
+20 : NUMBER
+..........................  449  ...........................
+a : Distance_Number
+garage : Parking_Type
+overnight : TIME
+..........................  450  ...........................
+me : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  451  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+near : Location_Reference
+train station : Location
+parking : Location
+..........................  452  ...........................
+me : Location_Reference
+a : Distance_Number
+at : Calendarx
+structure : Parking_Type
+Drs Office : MISC
+..........................  453  ...........................
+me : Location_Reference
+evening : TIME
+from : Calendarx
+5 pm : TIME
+parking : Location
+9 PM : TIME
+..........................  454  ...........................
+me : Location_Reference
+National Zoo : ORGANIZATION
+parking : Location
+street : Parking_Type
+District of Columbia : LOCATION
+close : Location_Reference
+..........................  455  ...........................
+me : Location_Reference
+cheap : Price_Reference
+are : Location_Reference
+..........................  456  ...........................
+me : Location_Reference
+6 PM : TIME
+from : Calendarx
+4 pm : TIME
+parking : Location
+..........................  457  ...........................
+me : Location_Reference
+near : Location_Reference
+Rivoli : LOCATION
+parking : Location
+..........................  458  ...........................
+me : Location_Reference
+a : Distance_Number
+nearest : Distance_Reference
+current : DATE
+location : Location_Reference
+my : Location_Reference
+parking space : Location
+..........................  459  ...........................
+me : Location_Reference
+on : Calendarx
+street : Parking_Type
+..........................  460  ...........................
+me : Location_Reference
+or more : Duration
+5 hours : DURATION
+parking : Location
+..........................  461  ...........................
+me : Location_Reference
+reserved : Parking_Type
+my : Location_Reference
+parking : Location
+..........................  462  ...........................
+a : Distance_Number
+garage : Parking_Type
+an hour : DURATION
+5 : NUMBER
+parking : Location
+..........................  463  ...........................
+10 dollars : MONEY
+parking : Location
+..........................  464  ...........................
+3 am : TIME
+8 AM : TIME
+street : Parking_Type
+from : Calendarx
+parking : Location
+..........................  465  ...........................
+near : Location_Reference
+American Bank Center : ORGANIZATION
+parking : Location
+..........................  466  ...........................
+a : Distance_Number
+me : Location_Reference
+and : NUMBER
+12 : NUMBER
+this : Location_Reference
+garage : Parking_Type
+2 : NUMBER
+reservation : Parking_Type
+..........................  467  ...........................
+200 : NUMBER
+an hour : DURATION
+parking : Location
+an : Price_Reference
+..........................  468  ...........................
+a : Distance_Number
+10 : NUMBER
+an hour : DURATION
+reserve : Parking_Type
+near : Location_Reference
+1000 : DATE
+parking space : Location
+..........................  469  ...........................
+nearby : Location_Reference
+parking : Location
+reserve : Parking_Type
+..........................  470  ...........................
+me : Location_Reference
+a : Distance_Number
+near : Location_Reference
+4th : ORDINAL
+corner : Location
+main : Location
+reserve : Parking_Type
+..........................  471  ...........................
+a : Distance_Number
+garage : Parking_Type
+near me : Location_Reference
+..........................  472  ...........................
+me : Location_Reference
+at : Calendarx
+basketball courts : Location
+..........................  473  ...........................
+a : Distance_Number
+garage : Parking_Type
+my destination : Location_Reference
+today : DATE
+parking : Location
+..........................  474  ...........................
+7 am : TIME
+from : Calendarx
+Santa Monica Pier : LOCATION
+near : Location_Reference
+are : Location_Reference
+down parking : Location
+5 am : TIME
+..........................  475  ...........................
+COLABA : LOCATION
+..........................  476  ...........................
+..........................  477  ...........................
+a : Distance_Number
+garage : Parking_Type
+at 3 pm : TIME
+Thursday : DATE
+parking space : Location
+..........................  478  ...........................
+a : Distance_Number
+me : Location_Reference
+area : Location_Reference
+cost : Price_Reference
+parking : Location
+10 : NUMBER
+..........................  479  ...........................
+a : Distance_Number
+near : Location_Reference
+parking place : Location
+railway station : Location
+..........................  480  ...........................
+9 am : TIME
+until : Calendarx
+at : Calendarx
+5 pm : TIME
+parking : Location
+..........................  481  ...........................
+a : Distance_Number
+ten dollars : MONEY
+parking place : Location
+lot : Parking_Type
+an : Price_Reference
+..........................  482  ...........................
+me : Location_Reference
+a : Distance_Number
+Harbor Yard : LOCATION
+8 pm Tonight : DATE
+near : Location_Reference
+parking space : Location
+..........................  483  ...........................
+a : Distance_Number
+near me : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  484  ...........................
+a : Distance_Number
+town : Location
+near this : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  485  ...........................
+a : Distance_Number
+close : Location_Reference
+parking : Location
+..........................  486  ...........................
+a : Distance_Number
+parking place : Location
+lot : Parking_Type
+parking : Location
+..........................  487  ...........................
+a : Distance_Number
+Kroger : ORGANIZATION
+closest : Distance_Reference
+parking space : Location
+..........................  488  ...........................
+a : Distance_Number
+parking : Location
+..........................  489  ...........................
+a : Distance_Number
+blocks : Distance_Unit
+current : DATE
+3 : NUMBER
+location : Location_Reference
+my : Location_Reference
+parking space : Location
+..........................  490  ...........................
+2 PM : TIME
+..........................  491  ...........................
+me : Location_Reference
+11 am : TIME
+5 PM : TIME
+parking space : Location
+..........................  492  ...........................
+12 pm : TIME
+5 PM : TIME
+..........................  493  ...........................
+near : Location_Reference
+Gulf State Park : LOCATION
+parking : Location
+..........................  494  ...........................
+..........................  495  ...........................
+..........................  496  ...........................
+..........................  497  ...........................
+..........................  498  ...........................
+8 am : TIME
+parking : Location
+from : Calendarx
+4 PM : TIME
+metered : Parking_Type
+..........................  499  ...........................
+me : Location_Reference
+a : Distance_Number
+Ohare : LOCATION
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  500  ...........................
+me : Location_Reference
+a : Distance_Number
+street : Parking_Type
+on : Calendarx
+..........................  501  ...........................
+..........................  502  ...........................
+..........................  503  ...........................
+me : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  504  ...........................
+MORNING : TIME
+..........................  505  ...........................
+garage : Parking_Type
+15 : NUMBER
+closest : Distance_Reference
+parking : Location
+..........................  506  ...........................
+nearest : Distance_Reference
+parking : Location
+..........................  507  ...........................
+..........................  508  ...........................
+a : Distance_Number
+10 : NUMBER
+area : Location_Reference
+parking : Location
+..........................  509  ...........................
+..........................  510  ...........................
+a : Distance_Number
+space uptown : Location
+..........................  511  ...........................
+a : Distance_Number
+now : DATE
+parking space : Location
+..........................  512  ...........................
+a : Distance_Number
+subway stop : Location
+around : Location_Reference
+space : Location
+..........................  513  ...........................
+place : Location
+cheapest : Price_Reference
+..........................  514  ...........................
+at : Calendarx
+Oklahoma University : ORGANIZATION
+..........................  515  ...........................
+at : Calendarx
+..........................  516  ...........................
+cheap : Price_Reference
+parking : Location
+..........................  517  ...........................
+a : Distance_Number
+parking place : Location
+airport : Location
+dollar : Amount
+at : Calendarx
+..........................  518  ...........................
+Columbia Airport : LOCATION
+near : Location_Reference
+..........................  519  ...........................
+a : Distance_Number
+place : Location
+two hours : DURATION
+..........................  520  ...........................
+a : Distance_Number
+near : Location_Reference
+we : Location_Reference
+space : Location
+..........................  521  ...........................
+a : Distance_Number
+space uptown : Location
+..........................  522  ...........................
+4th : ORDINAL
+at : Calendarx
+..........................  523  ...........................
+4th : ORDINAL
+at : Calendarx
+..........................  524  ...........................
+a : Distance_Number
+place : Location
+..........................  525  ...........................
+closest : Distance_Reference
+space : Location
+..........................  526  ...........................
+..........................  527  ...........................
+two hours : DURATION
+..........................  528  ...........................
+5 : NUMBER
+..........................  529  ...........................
+2 PM : TIME
+10 am : TIME
+parking : Location
+..........................  530  ...........................
+a : Distance_Number
+house : Location
+place : Location
+near my : Location_Reference
+..........................  531  ...........................
+..........................  532  ...........................
+parking space : Location
+at : Calendarx
+an economic : Price_Reference
+..........................  533  ...........................
+San Jose Airport : LOCATION
+at : Calendarx
+..........................  534  ...........................
+midnight : TIME
+until : Calendarx
+..........................  535  ...........................
+10 am : TIME
+2 pm : TIME
+..........................  536  ...........................
+Jia Airport : LOCATION
+at : Calendarx
+..........................  537  ...........................
+20 : NUMBER
+or : Duration
+..........................  538  ...........................
+after : Calendarx
+5 PM : TIME
+..........................  539  ...........................
+feet : Distance_Unit
+100 : NUMBER
+..........................  540  ...........................
+arena : Location
+near : Location_Reference
+space : Location
+..........................  541  ...........................
+from : Calendarx
+24 pm : TIME
+..........................  542  ...........................
+midnight : TIME
+AM : TIME
+5 : TIME
+from : Calendarx
+to : TIME
+..........................  543  ...........................
+near : Location_Reference
+4th : ORDINAL
+..........................  544  ...........................
+..........................  545  ...........................
+my location : Location_Reference
+closest : Distance_Reference
+..........................  546  ...........................
+midnight : TIME
+from : Calendarx
+6 : NUMBER
+..........................  547  ...........................
+lots : Parking_Type
+15 : NUMBER
+day : DURATION
+per : Price_Reference
+..........................  548  ...........................
+close by : Location_Reference
+..........................  549  ...........................
+lots : Parking_Type
+me : Location_Reference
+closest : Distance_Reference
+..........................  550  ...........................
+near : Location_Reference
+4th : ORDINAL
+..........................  551  ...........................
+walking distance : Distance_Reference
+..........................  552  ...........................
+close : Location_Reference
+as : Distance_Reference
+Walmart : ORGANIZATION
+as possible : Distance_Reference
+..........................  553  ...........................
+near : Location_Reference
+American : MISC
+..........................  554  ...........................
+near : Location_Reference
+Chipotle : LOCATION
+..........................  555  ...........................
+Olive Garden : LOCATION
+near : Location_Reference
+..........................  556  ...........................
+near : Location_Reference
+San Jose Airport : LOCATION
+..........................  557  ...........................
+Sea World : LOCATION
+near : Location_Reference
+..........................  558  ...........................
+..........................  559  ...........................
+..........................  560  ...........................
+nearby : Location_Reference
+..........................  561  ...........................
+20 : NUMBER
+space : Location
+..........................  562  ...........................
+near : Location_Reference
+restaurant : Location
+parking : Location
+..........................  563  ...........................
+parking : Location
+..........................  564  ...........................
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+UTICA : LOCATION
+an : Price_Reference
+..........................  565  ...........................
+free : Price_Reference
+parking : Location
+..........................  566  ...........................
+blocks : Distance_Unit
+an : Price_Reference
+Madison Square Garden : LOCATION
+garage : Parking_Type
+five : NUMBER
+parking : Location
+..........................  567  ...........................
+7 PM : TIME
+4 AM : TIME
+parking : Location
+..........................  568  ...........................
+12 am : TIME
+garage : Parking_Type
+8 am : TIME
+from : Calendarx
+parking : Location
+..........................  569  ...........................
+garage : Parking_Type
+near my work : Location_Reference
+parking : Location
+..........................  570  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+two : NUMBER
+parking : Location
+..........................  571  ...........................
+parking : Location
+..........................  572  ...........................
+me : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  573  ...........................
+near : Location_Reference
+St Johns Hospital : LOCATION
+parking : Location
+..........................  574  ...........................
+ONE : NUMBER
+..........................  575  ...........................
+..........................  576  ...........................
+2 PM : TIME
+from : Calendarx
+10 am : TIME
+parking : Location
+..........................  577  ...........................
+10 : NUMBER
+parking : Location
+..........................  578  ...........................
+garage : Parking_Type
+San Jose Airport : LOCATION
+5 : NUMBER
+parking : Location
+..........................  579  ...........................
+one : NUMBER
+garage : Parking_Type
+cheapest : Price_Reference
+business district : Location
+parking : Location
+..........................  580  ...........................
+Central Park : LOCATION
+parking : Location
+around : Location_Reference
+metered : Parking_Type
+..........................  581  ...........................
+CHARLOTTE : LOCATION
+..........................  582  ...........................
+1 : NUMBER
+garage : Parking_Type
+parking : Location
+..........................  583  ...........................
+close : Location_Reference
+San Jose Airport : LOCATION
+lot : Parking_Type
+parking : Location
+..........................  584  ...........................
+Tonight : TIME
+8 pm : TIME
+from : Calendarx
+11 pm : DATE
+parking : Location
+..........................  585  ...........................
+blocks : Distance_Unit
+two : NUMBER
+parking : Location
+..........................  586  ...........................
+nearby : Location_Reference
+20 : NUMBER
+parking : Location
+..........................  587  ...........................
+me : Location_Reference
+from : Calendarx
+no : Price_Reference
+one : NUMBER
+mile : Distance_Unit
+parking : Location
+..........................  588  ...........................
+near : Location_Reference
+Gulf State Park : LOCATION
+parking : Location
+..........................  589  ...........................
+West Hollywood : LOCATION
+parking : Location
+..........................  590  ...........................
+my home : Location_Reference
+from : Calendarx
+blocks : Distance_Unit
+two : NUMBER
+parking : Location
+..........................  591  ...........................
+Runyon Canyon : LOCATION
+noon : TIME
+7 am : TIME
+near : Location_Reference
+parking : Location
+..........................  592  ...........................
+downtown : Location
+garage : Parking_Type
+free : Price_Reference
+parking : Location
+..........................  593  ...........................
+parking : Location
+closest : Distance_Reference
+valet : Parking_Type
+..........................  594  ...........................
+near : Location_Reference
+LAX AIRPORT : LOCATION
+parking : Location
+..........................  595  ...........................
+near : Location_Reference
+school : Location
+parking : Location
+..........................  596  ...........................
+current : DATE
+my : Location_Reference
+parking place : Location
+location : Location_Reference
+closest : Distance_Reference
+..........................  597  ...........................
+30 : NUMBER
+are : Location_Reference
+parking : Location
+..........................  598  ...........................
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  599  ...........................
+JFK AIRPORT : LOCATION
+at : Calendarx
+parking : Location
+..........................  600  ...........................
+lots : Parking_Type
+parking : Location
+nearby : Location_Reference
+..........................  601  ...........................
+..........................  602  ...........................
+expensive : Price_Reference
+parking : Location
+..........................  603  ...........................
+nearest : Distance_Reference
+free : Price_Reference
+parking : Location
+..........................  604  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+parking : Location
+..........................  605  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+Lake Theater : LOCATION
+parking : Location
+..........................  606  ...........................
+..........................  607  ...........................
+nearest : Distance_Reference
+lot : Parking_Type
+parking : Location
+..........................  608  ...........................
+Santa Anita Mall : LOCATION
+at : Calendarx
+parking : Location
+..........................  609  ...........................
+on : Calendarx
+whiteside : Location
+Friday : DATE
+730 : NUMBER
+at : Calendarx
+night : TIME
+parking : Location
+pm : Calendarx
+..........................  610  ...........................
+my position : Location_Reference
+close : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  611  ...........................
+a : Distance_Number
+1030 : DATE
+am : Location_Reference
+at : Calendarx
+parking : Location
+..........................  612  ...........................
+5 am : TIME
+parking : Location
+..........................  613  ...........................
+20 : NUMBER
+..........................  614  ...........................
+3 PM : TIME
+from : Calendarx
+5 PM : TIME
+parking : Location
+..........................  615  ...........................
+a : Distance_Number
+walking distance : Distance_Reference
+free : Price_Reference
+parking : Location
+..........................  616  ...........................
+a : Distance_Number
+by : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  617  ...........................
+a : Distance_Number
+mile : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  618  ...........................
+a : Distance_Number
+on : Calendarx
+this : Location_Reference
+place : Location
+side : Location
+block : Distance_Unit
+..........................  619  ...........................
+parking place : Location
+are : Location_Reference
+free : Price_Reference
+..........................  620  ...........................
+from : Calendarx
+10 am : TIME
+2 PM : TIME
+..........................  621  ...........................
+2 : NUMBER
+parking place : Location
+..........................  622  ...........................
+3 : NUMBER
+..........................  623  ...........................
+10 : NUMBER
+parking : Location
+..........................  624  ...........................
+5 dollars : MONEY
+parking : Location
+..........................  625  ...........................
+near by : Location_Reference
+parking : Location
+..........................  626  ...........................
+Madison Square Garden : LOCATION
+near : Location_Reference
+parking : Location
+..........................  627  ...........................
+near : Location_Reference
+school : Location
+parking : Location
+..........................  628  ...........................
+24 hours : DURATION
+parking : Location
+..........................  629  ...........................
+on : Calendarx
+blocks : Distance_Unit
+parking : Location
+..........................  630  ...........................
+concert : Location
+space : Location
+tonight : DATE
+garage : Parking_Type
+near : Location_Reference
+beach fro : Location
+at : Calendarx
+..........................  631  ...........................
+Waikiki : LOCATION
+street : Parking_Type
+parking : Location
+..........................  632  ...........................
+10 : NUMBER
+parking : Location
+..........................  633  ...........................
+1 : NUMBER
+parking : Location
+..........................  634  ...........................
+10 pm : TIME
+from : Calendarx
+9 AM : TIME
+..........................  635  ...........................
+near here : Location_Reference
+public parking : Location
+..........................  636  ...........................
+close : Location_Reference
+Hartfield : PERSON
+parking : Location
+..........................  637  ...........................
+from : Calendarx
+place : Location
+4 PM : TIME
+9 am : TIME
+..........................  638  ...........................
+free : Price_Reference
+..........................  639  ...........................
+Levi : LOCATION
+stadium : Location
+..........................  640  ...........................
+close : Location_Reference
+restaurant : Location
+street : Parking_Type
+parking : Location
+..........................  641  ...........................
+..........................  642  ...........................
+near : Location_Reference
+street : Parking_Type
+parking : Location
+..........................  643  ...........................
+near : Location_Reference
+street : Parking_Type
+parking : Location
+..........................  644  ...........................
+least expensive : Price_Reference
+parking : Location
+..........................  645  ...........................
+me : Location_Reference
+South Amboy : LOCATION
+near : Location_Reference
+train station : Location
+parking : Location
+..........................  646  ...........................
+restaurant : Location
+parking : Location
+at : Calendarx
+valet : Parking_Type
+..........................  647  ...........................
+parking : Location
+valet : Parking_Type
+..........................  648  ...........................
+this : Location_Reference
+10 pm : TIME
+after : Calendarx
+lot : Parking_Type
+parking : Location
+..........................  649  ...........................
+10 am : TIME
+2 PM : TIME
+..........................  650  ...........................
+me : Location_Reference
+lots : Parking_Type
+all : Duration
+nearby : Location_Reference
+parking : Location
+..........................  651  ...........................
+me : Location_Reference
+all : Duration
+blocks : Distance_Unit
+garages : Parking_Type
+5 : NUMBER
+parking : Location
+..........................  652  ...........................
+all : Duration
+South Central Boston : LOCATION
+parking : Location
+..........................  653  ...........................
+me : Location_Reference
+lowest : Price_Reference
+hourly : SET
+garages : Parking_Type
+rates : Price_Reference
+parking : Location
+..........................  654  ...........................
+me : Location_Reference
+all : Duration
+free : Price_Reference
+parking : Location
+..........................  655  ...........................
+parking : Location
+cheapest : Price_Reference
+..........................  656  ...........................
+..........................  657  ...........................
+near : Location_Reference
+Jia Airport : LOCATION
+parking : Location
+..........................  658  ...........................
+a : Distance_Number
+all : Duration
+from : Calendarx
+lots : Parking_Type
+mile : Distance_Unit
+parking : Location
+rave : Location
+Milwaukee : LOCATION
+..........................  659  ...........................
+miles : Distance_Unit
+garages : Parking_Type
+all : Duration
+6 : NUMBER
+parking : Location
+..........................  660  ...........................
+a : Distance_Number
+garage : Parking_Type
+near me : Location_Reference
+parking : Location
+..........................  661  ...........................
+garage : Parking_Type
+half a : Distance_Number
+an : Price_Reference
+..........................  662  ...........................
+3 hour : DURATION
+parking : Location
+..........................  663  ...........................
+a : Distance_Number
+hours 8 am : DATE
+business : Location
+5 PM : TIME
+downtown : Location
+garage : Parking_Type
+parking : Location
+during : Calendarx
+..........................  664  ...........................
+a : Distance_Number
+from : Calendarx
+Safeway : ORGANIZATION
+garage : Parking_Type
+2 : NUMBER
+parking : Location
+blocks : Distance_Unit
+..........................  665  ...........................
+a : Distance_Number
+garage : Parking_Type
+Valley Mall : LOCATION
+at : Calendarx
+parking : Location
+..........................  666  ...........................
+a : Distance_Number
+9 am : TIME
+at : Calendarx
+parking : Location
+..........................  667  ...........................
+a : Distance_Number
+garage : Parking_Type
+near : Location_Reference
+mall : Location
+parking : Location
+..........................  668  ...........................
+a : Distance_Number
+cheapest : Price_Reference
+business district : Location
+one : NUMBER
+garage : Parking_Type
+parking : Location
+..........................  669  ...........................
+a : Distance_Number
+hospital : Location
+mile : Distance_Unit
+half a : Distance_Number
+parking space : Location
+..........................  670  ...........................
+a : Distance_Number
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+Washington DC : LOCATION
+small business administration : Location
+..........................  671  ...........................
+a : Distance_Number
+near : Location_Reference
+parking : Location
+..........................  672  ...........................
+a : Distance_Number
+on : Calendarx
+Park Place Avenue : LOCATION
+near : Location_Reference
+parking : Location
+legendary doughnuts : Location
+..........................  673  ...........................
+a : Distance_Number
+walking distance : Distance_Reference
+parking : Location
+..........................  674  ...........................
+a : Distance_Number
+me : Location_Reference
+apartment : Location_Reference
+place : Location
+near my : Location_Reference
+..........................  675  ...........................
+a : Distance_Number
+on : Calendarx
+destination : Location_Reference
+side : Location
+..........................  676  ...........................
+a : Distance_Number
+garage : Parking_Type
+near : Location_Reference
+Carolina : LOCATION
+parking : Location
+..........................  677  ...........................
+a : Distance_Number
+from : Calendarx
+here : Location_Reference
+garage : Parking_Type
+mile : Distance_Unit
+parking : Location
+..........................  678  ...........................
+a : Distance_Number
+garage : Parking_Type
+near me : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  679  ...........................
+parking : Location
+..........................  680  ...........................
+garage : Parking_Type
+at : Calendarx
+9th : ORDINAL
+parking : Location
+..........................  681  ...........................
+from : Calendarx
+to : NUMBER
+garage : Parking_Type
+2 : NUMBER
+5 : NUMBER
+parking : Location
+..........................  682  ...........................
+a : Distance_Number
+nearby : Location_Reference
+cheap : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  683  ...........................
+a : Distance_Number
+garage : Parking_Type
+Pittsburgh : LOCATION
+close : Location_Reference
+parking : Location
+..........................  684  ...........................
+a : Distance_Number
+Dallas Airport : LOCATION
+place : Location
+at : Calendarx
+free : Price_Reference
+..........................  685  ...........................
+a : Distance_Number
+garage : Parking_Type
+by : Location_Reference
+..........................  686  ...........................
+a : Distance_Number
+garage : Parking_Type
+this location : Location_Reference
+2 : NUMBER
+blocks : Distance_Unit
+..........................  687  ...........................
+a : Distance_Number
+walking : Distance_Reference
+5 minutes : DURATION
+venue : Location
+parking : Location
+..........................  688  ...........................
+a : Distance_Number
+Fondue Lake : LOCATION
+area : Location_Reference
+parking : Location
+..........................  689  ...........................
+a : Distance_Number
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+..........................  690  ...........................
+a : Distance_Number
+close : Location_Reference
+free : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  691  ...........................
+a : Distance_Number
+fillmore : Location
+at : Calendarx
+lot : Parking_Type
+parking : Location
+..........................  692  ...........................
+a : Distance_Number
+mile : Distance_Unit
+place : Location
+..........................  693  ...........................
+a : Distance_Number
+on : Calendarx
+this : Location_Reference
+street : Parking_Type
+lot : Parking_Type
+parking : Location
+..........................  694  ...........................
+a : Distance_Number
+blocks : Distance_Unit
+stylist : Location
+2 : NUMBER
+lot : Parking_Type
+parking : Location
+..........................  695  ...........................
+a : Distance_Number
+5 minute : DURATION
+from : Calendarx
+my destination : Location_Reference
+walk : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  696  ...........................
+a : Distance_Number
+parking place : Location
+free : Price_Reference
+..........................  697  ...........................
+a : Distance_Number
+close by : Location_Reference
+parking : Location
+..........................  698  ...........................
+a : Distance_Number
+from : Calendarx
+12 pm : TIME
+place : Location
+9 am : TIME
+..........................  699  ...........................
+a : Distance_Number
+10 pm : TIME
+from : Calendarx
+9 AM : TIME
+..........................  700  ...........................
+garage : Parking_Type
+mall : Location
+parking : Location
+an : Price_Reference
+..........................  701  ...........................
+a : Distance_Number
+from : Calendarx
+10 am : TIME
+place : Location
+parking : Location
+3 PM : TIME
+..........................  702  ...........................
+a : Distance_Number
+15 : NUMBER
+valet : Parking_Type
+garage : Parking_Type
+mall : Location
+at : Calendarx
+parking : Location
+..........................  703  ...........................
+a : Distance_Number
+Central Park : LOCATION
+place : Location
+by : Location_Reference
+..........................  704  ...........................
+a : Distance_Number
+place : Location
+two hours : DURATION
+..........................  705  ...........................
+a : Distance_Number
+place : Location
+three hours : DURATION
+..........................  706  ...........................
+overnight : TIME
+around me : Location_Reference
+parking : Location
+..........................  707  ...........................
+lots : Parking_Type
+nearby : Location_Reference
+parking : Location
+..........................  708  ...........................
+a : Distance_Number
+public parking : Location
+lot : Parking_Type
+nearby : Location_Reference
+..........................  709  ...........................
+venue : Location
+at : Calendarx
+parking : Location
+..........................  710  ...........................
+a : Distance_Number
+fairgrounds : Location
+mile : Distance_Unit
+lot : Parking_Type
+..........................  711  ...........................
+me : Location_Reference
+close : Location_Reference
+parking : Location
+valet : Parking_Type
+..........................  712  ...........................
+5 pm : TIME
+at : Calendarx
+free : Price_Reference
+parking : Location
+..........................  713  ...........................
+1 : NUMBER
+free : Price_Reference
+parking : Location
+..........................  714  ...........................
+close : Location_Reference
+street : Parking_Type
+store : Location
+parking : Location
+..........................  715  ...........................
+nearby : Location_Reference
+onstreet : Parking_Type
+parking : Location
+..........................  716  ...........................
+Central Park : LOCATION
+at : Calendarx
+parking : Location
+..........................  717  ...........................
+parking : Location
+..........................  718  ...........................
+nearby : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  719  ...........................
+blocks : Distance_Unit
+4 : NUMBER
+..........................  720  ...........................
+at : Calendarx
+parking : Location
+..........................  721  ...........................
+Detroit Air Port : LOCATION
+at : Calendarx
+free : Price_Reference
+parking : Location
+..........................  722  ...........................
+pm : Calendarx
+parking : Location
+2430 : DATE
+nearby : Location_Reference
+..........................  723  ...........................
+near : Location_Reference
+cheap : Price_Reference
+parking : Location
+..........................  724  ...........................
+me : Location_Reference
+close : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  725  ...........................
+and : TIME
+noon : TIME
+street : Parking_Type
+4 : TIME
+parking : Location
+pm : TIME
+..........................  726  ...........................
+night : TIME
+at : Calendarx
+parking : Location
+..........................  727  ...........................
+free : Price_Reference
+parking : Location
+..........................  728  ...........................
+8 pm : TIME
+8 AM : TIME
+parking : Location
+from : Calendarx
+nearby : Location_Reference
+..........................  729  ...........................
+Berkeley : LOCATION
+close : Location_Reference
+memorial stadium : Location
+parking : Location
+..........................  730  ...........................
+near : Location_Reference
+Aloha Stadium : LOCATION
+parking : Location
+..........................  731  ...........................
+near here : Location_Reference
+afternoon : TIME
+during : Calendarx
+parking : Location
+..........................  732  ...........................
+close by : Location_Reference
+..........................  733  ...........................
+810 : NUMBER
+from : Calendarx
+pm : Calendarx
+..........................  734  ...........................
+5 minutes : DURATION
+..........................  735  ...........................
+250 : NUMBER
+my : Location_Reference
+hour : DURATION
+per : Price_Reference
+..........................  736  ...........................
+10 : NUMBER
+..........................  737  ...........................
+lot : Parking_Type
+expensive : Price_Reference
+..........................  738  ...........................
+near : Location_Reference
+Marquette University : ORGANIZATION
+parking : Location
+..........................  739  ...........................
+3 PM : TIME
+from : Calendarx
+2 pm : TIME
+..........................  740  ...........................
+6 PM : TIME
+from : Calendarx
+2 pm : TIME
+..........................  741  ...........................
+8 to 10 : TIME
+from : Calendarx
+pm : TIME
+..........................  742  ...........................
+two hours : DURATION
+..........................  743  ...........................
+near : Location_Reference
+hospital : Location
+..........................  744  ...........................
+airport : Location
+at : Calendarx
+..........................  745  ...........................
+near : Location_Reference
+..........................  746  ...........................
+least expensive : Price_Reference
+parking : Location
+reserve : Parking_Type
+..........................  747  ...........................
+mile : Distance_Unit
+half a : Distance_Number
+..........................  748  ...........................
+a : Distance_Number
+Benedum Center : ORGANIZATION
+300 : NUMBER
+feet : Distance_Unit
+1 pm Today : DATE
+reserve : Parking_Type
+parking space : Location
+..........................  749  ...........................
+near : Location_Reference
+parking : Location
+reserve : Parking_Type
+..........................  750  ...........................
+a : Distance_Number
+me : Location_Reference
+door : Location
+one : NUMBER
+close : Location_Reference
+reserve : Parking_Type
+..........................  751  ...........................
+a : Distance_Number
+parking : Location
+..........................  752  ...........................
+10 : NUMBER
+parking : Location
+..........................  753  ...........................
+1000 : DATE
+parking : Location
+..........................  754  ...........................
+a : Distance_Number
+Nice Restaurant : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  755  ...........................
+me : Location_Reference
+at : Calendarx
+parking : Location
+..........................  756  ...........................
+a : Distance_Number
+possible : Distance_Reference
+lot : Parking_Type
+parking : Location
+..........................  757  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+from : Calendarx
+5 : NUMBER
+parking : Location
+..........................  758  ...........................
+..........................  759  ...........................
+less than 10 minutes : DURATION
+from : Calendarx
+here : Location_Reference
+..........................  760  ...........................
+here : Location_Reference
+free : Price_Reference
+..........................  761  ...........................
+a : Distance_Number
+five dollars : MONEY
+charge : Price_Reference
+parking : Location
+not : Parking_Type
+more : Duration
+..........................  762  ...........................
+a : Distance_Number
+garage : Parking_Type
+airport : Location
+mile : Distance_Unit
+..........................  763  ...........................
+a : Distance_Number
+near : Location_Reference
+movie theater : Location
+parking : Location
+..........................  764  ...........................
+a : Distance_Number
+garage : Parking_Type
+walking distance : Distance_Reference
+parking : Location
+..........................  765  ...........................
+at : Calendarx
+Colaba : LOCATION
+..........................  766  ...........................
+..........................  767  ...........................
+near : Location_Reference
+hotel : Location
+from : Calendarx
+126 : NUMBER
+pm : Calendarx
+..........................  768  ...........................
+expensive : Price_Reference
+parking : Location
+..........................  769  ...........................
+near : Location_Reference
+theatre : Location
+..........................  770  ...........................
+a : Distance_Number
+6 pm : DATE
+Tonight : TIME
+Oakland Convention Center : ORGANIZATION
+near : Location_Reference
+at : Calendarx
+parking : Location
+reserve : Parking_Type
+..........................  771  ...........................
+a : Distance_Number
+ramp : Parking_Type
+overnight : TIME
+parking : Location
+..........................  772  ...........................
+this : Location_Reference
+block : Distance_Unit
+parking : Location
+..........................  773  ...........................
+123 : NUMBER
+from : Calendarx
+pm : Calendarx
+..........................  774  ...........................
+Ami : PERSON
+3 : NUMBER
+blocks : Distance_Unit
+..........................  775  ...........................
+a : Distance_Number
+from : Calendarx
+ballpark : Location
+one : NUMBER
+mile : Distance_Unit
+my : Location_Reference
+bank : Location
+..........................  776  ...........................
+a : Distance_Number
+parking space downtown : Location
+daytime : TIME
+..........................  777  ...........................
+MIDNIGHT : TIME
+8 PM : TIME
+from : Calendarx
+parking : Location
+..........................  778  ...........................
+a : Distance_Number
+garage : Parking_Type
+an hour : DURATION
+2 : NUMBER
+parking : Location
+..........................  779  ...........................
+9 am : TIME
+12 pm : TIME
+from : Calendarx
+until : Calendarx
+here : Location_Reference
+..........................  780  ...........................
+at : Calendarx
+Castro Theatre : LOCATION
+..........................  781  ...........................
+a : Distance_Number
+now : DATE
+parking : Location
+..........................  782  ...........................
+..........................  783  ...........................
+a : Distance_Number
+hotel : Location
+near my : Location_Reference
+at : Calendarx
+parking : Location
+..........................  784  ...........................
+a : Distance_Number
+7 : NUMBER
+lot : Parking_Type
+parking : Location
+..........................  785  ...........................
+at : Calendarx
+..........................  786  ...........................
+..........................  787  ...........................
+near : Location_Reference
+Chipotle : LOCATION
+..........................  788  ...........................
+7 PM : TIME
+from : Calendarx
+5 pm : TIME
+..........................  789  ...........................
+parking : Location
+metered : Parking_Type
+..........................  790  ...........................
+a : Distance_Number
+downtown : Location
+1 PM : TIME
+from : Calendarx
+11 am : TIME
+..........................  791  ...........................
+near : Location_Reference
+street : Parking_Type
+zoo : Location
+parking : Location
+..........................  792  ...........................
+at : Calendarx
+Crabtree Mall : LOCATION
+..........................  793  ...........................
+Fondue Lake : LOCATION
+at : Calendarx
+..........................  794  ...........................
+3 PM : TIME
+from : Calendarx
+2 pm : TIME
+..........................  795  ...........................
+San Jose Airport : LOCATION
+at : Calendarx
+..........................  796  ...........................
+Tacoma General Hospital : ORGANIZATION
+at : Calendarx
+..........................  797  ...........................
+12 pm : TIME
+from : Calendarx
+5 PM : TIME
+..........................  798  ...........................
+an hour : DURATION
+..........................  799  ...........................
+5 : NUMBER
+..........................  800  ...........................
+nearest : Distance_Reference
+airport : Location
+..........................  801  ...........................
+a : Distance_Number
+by : Location_Reference
+..........................  802  ...........................
+near : Location_Reference
+Oakdale Mall : LOCATION
+..........................  803  ...........................
+near : Location_Reference
+Binghamton : LOCATION
+area : Location_Reference
+..........................  804  ...........................
+night : TIME
+all : Duration
+valet : Parking_Type
+parking : Location
+..........................  805  ...........................
+a : Distance_Number
+..........................  806  ...........................
+10 : NUMBER
+all : Duration
+parking : Location
+..........................  807  ...........................
+on : Calendarx
+street : Parking_Type
+overnight : TIME
+..........................  808  ...........................
+10 : NUMBER
+..........................  809  ...........................
+1 : TIME
+to : TIME
+noon : TIME
+from : Calendarx
+PM : TIME
+..........................  810  ...........................
+blocks : Distance_Unit
+4 : NUMBER
+..........................  811  ...........................
+a : Distance_Number
+downtown : Location
+near : Location_Reference
+parking : Location
+reserve : Parking_Type
+..........................  812  ...........................
+parking : Location
+Herman Hospital : PERSON
+at : Calendarx
+valet : Parking_Type
+..........................  813  ...........................
+Fortuna : PERSON
+near : Location_Reference
+at : Calendarx
+9th : ORDINAL
+parking : Location
+reserve : Parking_Type
+..........................  814  ...........................
+a : Distance_Number
+7 PM : TIME
+reserved : Parking_Type
+at : Calendarx
+parking space : Location
+..........................  815  ...........................
+a : Distance_Number
+cheap : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  816  ...........................
+a : Distance_Number
+garage : Parking_Type
+2 : NUMBER
+blocks : Distance_Unit
+parking : Location
+..........................  817  ...........................
+a : Distance_Number
+garage : Parking_Type
+1 : NUMBER
+parking : Location
+..........................  818  ...........................
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+..........................  819  ...........................
+a : Distance_Number
+blocks : Distance_Unit
+ramp : Parking_Type
+here : Location_Reference
+four : NUMBER
+parking : Location
+..........................  820  ...........................
+area : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  821  ...........................
+..........................  822  ...........................
+one : NUMBER
+block : Distance_Unit
+parking : Location
+..........................  823  ...........................
+near : Location_Reference
+hotel : Location
+parking : Location
+..........................  824  ...........................
+12 pm : TIME
+from : Calendarx
+my : Location_Reference
+9 am : TIME
+beach : Location
+by : Location_Reference
+..........................  825  ...........................
+Grant Park : PERSON
+by : Location_Reference
+..........................  826  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+parking : Location
+..........................  827  ...........................
+a : Distance_Number
+PATS : ORGANIZATION
+tonight : DATE
+near : Location_Reference
+stadium : Location
+reserve : Parking_Type
+parking space : Location
+..........................  828  ...........................
+9 PM : TIME
+6 pm : TIME
+..........................  829  ...........................
+San Jose Airport : LOCATION
+at : Calendarx
+..........................  830  ...........................
+..........................  831  ...........................
+a : Distance_Number
+airport : Location
+closest : Distance_Reference
+..........................  832  ...........................
+sons school : Location
+my : Location_Reference
+at : Calendarx
+parking : Location
+..........................  833  ...........................
+9 pm : TIME
+at : Calendarx
+parking : Location
+..........................  834  ...........................
+a : Distance_Number
+close am : Location_Reference
+lot : Parking_Type
+free : Price_Reference
+parking : Location
+..........................  835  ...........................
+a : Distance_Number
+concert : Location
+Union : ORGANIZATION
+transfer : Location
+this Friday : DATE
+night : TIME
+at : Calendarx
+parking : Location
+reserve : Parking_Type
+..........................  836  ...........................
+6 pm : TIME
+on : Calendarx
+after : Calendarx
+are : Location_Reference
+parking : Location
+..........................  837  ...........................
+a : Distance_Number
+me : Location_Reference
+reserve : Parking_Type
+parking : Location
+now : DATE
+before : Calendarx
+..........................  838  ...........................
+from : Calendarx
+lots : Parking_Type
+here : Location_Reference
+mile : Distance_Unit
+are : Location_Reference
+parking : Location
+a half : Distance_Number
+..........................  839  ...........................
+me : Location_Reference
+parking : Location
+..........................  840  ...........................
+structure : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  841  ...........................
+are : Location_Reference
+parking : Location
+..........................  842  ...........................
+a : Distance_Number
+place : Location
+at : Calendarx
+..........................  843  ...........................
+currently : DATE
+are : Location_Reference
+..........................  844  ...........................
+from : Calendarx
+12 pm : TIME
+am : Location_Reference
+4 PM : TIME
+parking : Location
+..........................  845  ...........................
+venue : Location
+at : Calendarx
+parking : Location
+..........................  846  ...........................
+near my destination : Location_Reference
+cost : Price_Reference
+parking : Location
+..........................  847  ...........................
+garage : Parking_Type
+parking : Location
+..........................  848  ...........................
+8 am : TIME
+from : Calendarx
+5 PM : TIME
+parking space : Location
+..........................  849  ...........................
+parking : Location
+an : Price_Reference
+..........................  850  ...........................
+a : Distance_Number
+garage : Parking_Type
+cheap : Price_Reference
+..........................  851  ...........................
+24 HRS : DURATION
+..........................  852  ...........................
+a : Distance_Number
+me : Location_Reference
+close by : Location_Reference
+free : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  853  ...........................
+a : Distance_Number
+at : Calendarx
+parking : Location
+..........................  854  ...........................
+a : Distance_Number
+overnight : TIME
+free : Price_Reference
+place : Location
+parking : Location
+nearby : Location_Reference
+..........................  855  ...........................
+a : Distance_Number
+mall : Location
+by : Location_Reference
+parking space : Location
+..........................  856  ...........................
+a : Distance_Number
+20 : NUMBER
+parking space : Location
+..........................  857  ...........................
+a : Distance_Number
+miles : Distance_Unit
+two : NUMBER
+parking space : Location
+..........................  858  ...........................
+a : Distance_Number
+as : Distance_Reference
+Walmart : ORGANIZATION
+parking : Location
+close : Location_Reference
+as possible : Distance_Reference
+..........................  859  ...........................
+a : Distance_Number
+from : Calendarx
+10 minutes : DURATION
+hotel : Location
+parking : Location
+walking distance : Distance_Reference
+..........................  860  ...........................
+15 : NUMBER
+all : Duration
+my : Location_Reference
+..........................  861  ...........................
+a : Distance_Number
+place : Location
+overnight : TIME
+..........................  862  ...........................
+a : Distance_Number
+from : Calendarx
+hospital : Location
+11 pm : TIME
+garage : Parking_Type
+at : Calendarx
+parking : Location
+9 pm : TIME
+..........................  863  ...........................
+garage : Parking_Type
+closest : Distance_Reference
+..........................  864  ...........................
+a : Distance_Number
+parking : Location
+place : Location
+close by : Location_Reference
+valet : Parking_Type
+..........................  865  ...........................
+a : Distance_Number
+near : Location_Reference
+right now : DATE
+parking : Location
+..........................  866  ...........................
+a : Distance_Number
+near : Location_Reference
+BINGHAMTON : LOCATION
+parking : Location
+..........................  867  ...........................
+a : Distance_Number
+an hour : DURATION
+2 : NUMBER
+parking : Location
+..........................  868  ...........................
+cheap : Price_Reference
+parking : Location
+..........................  869  ...........................
+a : Distance_Number
+place : Location
+..........................  870  ...........................
+a : Distance_Number
+blocks : Distance_Unit
+here : Location_Reference
+3 : NUMBER
+reserved : Parking_Type
+parking space : Location
+..........................  871  ...........................
+a : Distance_Number
+3 PM : DATE
+airport : Location
+2 : NUMBER
+at : Calendarx
+..........................  872  ...........................
+near : Location_Reference
+EAGEN CENTER : MISC
+parking : Location
+..........................  873  ...........................
+closest : Distance_Reference
+..........................  874  ...........................
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  875  ...........................
+on : Calendarx
+Morning : TIME
+..........................  876  ...........................
+down town : Location
+area : Location_Reference
+overnight : TIME
+parking : Location
+..........................  877  ...........................
+a : Distance_Number
+me : Location_Reference
+from : Calendarx
+block : Distance_Unit
+parking : Location
+..........................  878  ...........................
+cheap : Price_Reference
+parking : Location
+..........................  879  ...........................
+blocks : Distance_Unit
+two : NUMBER
+parking : Location
+..........................  880  ...........................
+AERO : ORGANIZATION
+parking : Location
+..........................  881  ...........................
+me : Location_Reference
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  882  ...........................
+me : Location_Reference
+on : Calendarx
+Dania : PERSON
+a : Distance_Number
+parking : Location
+beach : Location
+..........................  883  ...........................
+a : Distance_Number
+from : Calendarx
+to : NUMBER
+free : Price_Reference
+1 : NUMBER
+garage : Parking_Type
+3 : NUMBER
+..........................  884  ...........................
+by : Location_Reference
+parking space : Location
+..........................  885  ...........................
+miles : Distance_Unit
+me : Location_Reference
+2 : NUMBER
+parking : Location
+..........................  886  ...........................
+20 : NUMBER
+parking : Location
+..........................  887  ...........................
+street : Parking_Type
+nearby : Location_Reference
+parking : Location
+..........................  888  ...........................
+and : TIME
+midnight : TIME
+am : TIME
+5 : TIME
+my : Location_Reference
+..........................  889  ...........................
+9 to noon : TIME
+..........................  890  ...........................
+10 pm : TIME
+5 pm : TIME
+..........................  891  ...........................
+..........................  892  ...........................
+me : Location_Reference
+a : Distance_Number
+cheap rate : Price_Reference
+parking place : Location
+at : Calendarx
+..........................  893  ...........................
+near me : Location_Reference
+parking : Location
+..........................  894  ...........................
+me : Location_Reference
+Fondue Lake : LOCATION
+closest : Distance_Reference
+parking : Location
+..........................  895  ...........................
+10 AM : TIME
+2 PM : TIME
+..........................  896  ...........................
+..........................  897  ...........................
+8 PM : TIME
+..........................  898  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+near me : Location_Reference
+parking : Location
+..........................  899  ...........................
+me : Location_Reference
+a : Distance_Number
+block : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  900  ...........................
+near me : Location_Reference
+..........................  901  ...........................
+1 : NUMBER
+block : Distance_Unit
+..........................  902  ...........................
+on : Calendarx
+parking : Location
+..........................  903  ...........................
+6 pm : TIME
+until : Calendarx
+..........................  904  ...........................
+me : Location_Reference
+a : Distance_Number
+am going : Location_Reference
+cheap : Price_Reference
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  905  ...........................
+am going : Location_Reference
+near : Location_Reference
+cheap : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  906  ...........................
+me : Location_Reference
+by : Location_Reference
+parking : Location
+..........................  907  ...........................
+..........................  908  ...........................
+me : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  909  ...........................
+me : Location_Reference
+a : Distance_Number
+8 am : TIME
+from : Calendarx
+10 am : TIME
+place : Location
+..........................  910  ...........................
+me : Location_Reference
+a : Distance_Number
+Taco Bell : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  911  ...........................
+me : Location_Reference
+a : Distance_Number
+20 : NUMBER
+parking : Location
+..........................  912  ...........................
+a : Distance_Number
+garage : Parking_Type
+am : Location_Reference
+20 : NUMBER
+..........................  913  ...........................
+me : Location_Reference
+a : Distance_Number
+on : Calendarx
+street : Parking_Type
+parking : Location
+..........................  914  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+cheapest : Price_Reference
+..........................  915  ...........................
+me : Location_Reference
+near : Location_Reference
+train station : Location
+one : NUMBER
+..........................  916  ...........................
+me : Location_Reference
+a : Distance_Number
+at : Calendarx
+parking space : Location
+..........................  917  ...........................
+..........................  918  ...........................
+me : Location_Reference
+parking : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  919  ...........................
+restaurant : Location
+Dianos : LOCATION
+reserve : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  920  ...........................
+me : Location_Reference
+a : Distance_Number
+airport : Location
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+Greenville NC : LOCATION
+..........................  921  ...........................
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  922  ...........................
+..........................  923  ...........................
+me : Location_Reference
+parking : Location
+concert : Location
+at : Calendarx
+reserve : Parking_Type
+..........................  924  ...........................
+me : Location_Reference
+3 HOURS : DURATION
+parking : Location
+..........................  925  ...........................
+me : Location_Reference
+street : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  926  ...........................
+me : Location_Reference
+from : Calendarx
+8 am : TIME
+place : Location
+10 am : TIME
+..........................  927  ...........................
+close : Location_Reference
+mall : Location
+parking : Location
+..........................  928  ...........................
+..........................  929  ...........................
+at : Calendarx
+..........................  930  ...........................
+a : Distance_Number
+6 PM : TIME
+2 pm : TIME
+from : Calendarx
+parking space : Location
+..........................  931  ...........................
+a : Distance_Number
+..........................  932  ...........................
+a : Distance_Number
+6 pm : TIME
+from : Calendarx
+11 pm : TIME
+parking : Location
+..........................  933  ...........................
+..........................  934  ...........................
+me : Location_Reference
+a : Distance_Number
+near : Location_Reference
+McDonalds : LOCATION
+parking space : Location
+..........................  935  ...........................
+shop : Location
+parking space : Location
+..........................  936  ...........................
+downtown : Location
+a : Distance_Number
+going : Location_Reference
+10 dollars : MONEY
+..........................  937  ...........................
+..........................  938  ...........................
+me : Location_Reference
+a : Distance_Number
+place : Location
+Navy : ORGANIZATION
+..........................  939  ...........................
+..........................  940  ...........................
+ten dollars : MONEY
+around : Location_Reference
+parking : Location
+..........................  941  ...........................
+me : Location_Reference
+a : Distance_Number
+cheap : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  942  ...........................
+not metered : Parking_Type
+..........................  943  ...........................
+2000 : DATE
+parking : Location
+..........................  944  ...........................
+near : Location_Reference
+Lincoln Street : LOCATION
+..........................  945  ...........................
+10 : NUMBER
+..........................  946  ...........................
+near : Location_Reference
+Union Square : LOCATION
+..........................  947  ...........................
+El Street School : LOCATION
+near : Location_Reference
+parking : Location
+..........................  948  ...........................
+metered : Parking_Type
+space : Location
+cheapest : Price_Reference
+..........................  949  ...........................
+midnight : TIME
+AM : TIME
+5 : TIME
+from : Calendarx
+to : TIME
+..........................  950  ...........................
+10 dollars : MONEY
+or : Duration
+free : Price_Reference
+parking : Location
+..........................  951  ...........................
+this destination : Location_Reference
+blocks : Distance_Unit
+public parking : Location
+three : NUMBER
+..........................  952  ...........................
+a : Distance_Number
+nearest : Distance_Reference
+bike rack : Location
+closest : Distance_Reference
+parking space : Location
+..........................  953  ...........................
+..........................  954  ...........................
+8 : NUMBER
+5 : NUMBER
+..........................  955  ...........................
+..........................  956  ...........................
+a : Distance_Number
+San Jose Airport : LOCATION
+block : Distance_Unit
+..........................  957  ...........................
+Newark Airport : LOCATION
+near : Location_Reference
+..........................  958  ...........................
+mile : Distance_Unit
+Madison Square Garden : LOCATION
+half : Distance_Number
+parking : Location
+..........................  959  ...........................
+restaurant : Location
+parking : Location
+..........................  960  ...........................
+..........................  961  ...........................
+near : Location_Reference
+library : Location
+parking : Location
+..........................  962  ...........................
+near my apartment : Location_Reference
+..........................  963  ...........................
+..........................  964  ...........................
+..........................  965  ...........................
+3 : NUMBER
+an hour : DURATION
+parking : Location
+..........................  966  ...........................
+on : Calendarx
+3rd : ORDINAL
+macys : Location
+parking : Location
+Pine Street : LOCATION
+close : Location_Reference
+..........................  967  ...........................
+..........................  968  ...........................
+nearest : Distance_Reference
+lot : Parking_Type
+parking : Location
+..........................  969  ...........................
+near : Location_Reference
+parking : Location
+airport : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  970  ...........................
+near my destination : Location_Reference
+parking : Location
+..........................  971  ...........................
+..........................  972  ...........................
+a : Distance_Number
+block : Distance_Unit
+parking : Location
+..........................  973  ...........................
+restaurant : Location
+blocks : Distance_Unit
+three : NUMBER
+parking : Location
+..........................  974  ...........................
+SEATAC : LOCATION
+place : Location
+at : Calendarx
+cheapest : Price_Reference
+..........................  975  ...........................
+garage : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  976  ...........................
+Sears Tower : LOCATION
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  977  ...........................
+parking : Location
+nearby : Location_Reference
+cheapest : Price_Reference
+..........................  978  ...........................
+..........................  979  ...........................
+nearest : Distance_Reference
+parking : Location
+..........................  980  ...........................
+town : Location
+valet : Parking_Type
+cheapest : Price_Reference
+..........................  981  ...........................
+blocks : Distance_Unit
+valet : Parking_Type
+parking : Location
+two : NUMBER
+cheapest : Price_Reference
+..........................  982  ...........................
+free : Price_Reference
+closest : Distance_Reference
+parking space : Location
+..........................  983  ...........................
+..........................  984  ...........................
+nearest : Distance_Reference
+location : Location_Reference
+parking : Location
+..........................  985  ...........................
+garage : Parking_Type
+near me : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  986  ...........................
+hotel : Location
+my : Location_Reference
+location : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  987  ...........................
+closest : Distance_Reference
+parking : Location
+..........................  988  ...........................
+..........................  989  ...........................
+healthcare : Location
+closest : Distance_Reference
+parking : Location
+..........................  990  ...........................
+closest : Distance_Reference
+..........................  991  ...........................
+..........................  992  ...........................
+Jia Airport : LOCATION
+at : Calendarx
+parking : Location
+..........................  993  ...........................
+town : Location
+highest : Price_Reference
+..........................  994  ...........................
+..........................  995  ...........................
+nearest : Distance_Reference
+hotel : Location
+my : Location_Reference
+Valet Service : ORGANIZATION
+..........................  996  ...........................
+lot : Parking_Type
+lowest priced : Price_Reference
+parking : Location
+..........................  997  ...........................
+nearest : Distance_Reference
+free : Price_Reference
+parking : Location
+..........................  998  ...........................
+..........................  999  ...........................
+blocks : Distance_Unit
+5 : NUMBER
+lot : Parking_Type
+parking : Location
+..........................  1000  ...........................
+..........................  1001  ...........................
+me : Location_Reference
+10 : NUMBER
+all : Duration
+parking : Location
+..........................  1002  ...........................
+4 PM : TIME
+..........................  1003  ...........................
+Find Valet Service : ORGANIZATION
+Amsterdam : LOCATION
+near : Location_Reference
+59th : ORDINAL
+..........................  1004  ...........................
+feet : Distance_Unit
+distance : Distance_Reference
+50 : NUMBER
+lot : Parking_Type
+parking : Location
+..........................  1005  ...........................
+blocks : Distance_Unit
+two : NUMBER
+parking : Location
+..........................  1006  ...........................
+..........................  1007  ...........................
+restaurant : Location
+by : Location_Reference
+parking : Location
+..........................  1008  ...........................
+me : Location_Reference
+close : Location_Reference
+parking : Location
+..........................  1009  ...........................
+10 : NUMBER
+25 : NUMBER
+parking : Location
+..........................  1010  ...........................
+a : Distance_Number
+am : Location_Reference
+10 dollars : MONEY
+garage : Parking_Type
+parking : Location
+parking space : Location
+..........................  1011  ...........................
+me : Location_Reference
+down town : Location
+two : NUMBER
+one : NUMBER
+Sacramento : LOCATION
+parking : Location
+..........................  1012  ...........................
+close : Location_Reference
+as : Distance_Reference
+as possible : Distance_Reference
+..........................  1013  ...........................
+me : Location_Reference
+cost : Price_Reference
+5 dollars : MONEY
+..........................  1014  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+garage : Parking_Type
+parking : Location
+..........................  1015  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+garage : Parking_Type
+theater : Location
+parking : Location
+..........................  1016  ...........................
+me : Location_Reference
+on : Calendarx
+street : Parking_Type
+..........................  1017  ...........................
+from : Calendarx
+715 : NUMBER
+945 : NUMBER
+parking : Location
+this evening : TIME
+pm : Calendarx
+..........................  1018  ...........................
+WHEELER : PERSON
+TWO : NUMBER
+..........................  1019  ...........................
+airport : Location
+by : Location_Reference
+parking : Location
+..........................  1020  ...........................
+close : Location_Reference
+parking : Location
+..........................  1021  ...........................
+..........................  1022  ...........................
+near : Location_Reference
+railway station : Location
+parking : Location
+..........................  1023  ...........................
+..........................  1024  ...........................
+near : Location_Reference
+parking : Location
+district : Location
+Theatre : LOCATION
+metered : Parking_Type
+..........................  1025  ...........................
+10 am : TIME
+2 PM : TIME
+..........................  1026  ...........................
+..........................  1027  ...........................
+..........................  1028  ...........................
+..........................  1029  ...........................
+3 : NUMBER
+..........................  1030  ...........................
+nearest : Distance_Reference
+parking : Location
+..........................  1031  ...........................
+..........................  1032  ...........................
+Jia Airport : LOCATION
+at : Calendarx
+parking : Location
+..........................  1033  ...........................
+a : Distance_Number
+Seattle : LOCATION
+place : Location
+at : Calendarx
+nordstroms downtown : Location
+..........................  1034  ...........................
+me : Location_Reference
+close : Location_Reference
+..........................  1035  ...........................
+..........................  1036  ...........................
+airport : Location
+at : Calendarx
+..........................  1037  ...........................
+chipotle : Location
+by : Location_Reference
+..........................  1038  ...........................
+at : Calendarx
+Tricounty Airport : LOCATION
+..........................  1039  ...........................
+9 PM : TIME
+6 pm : TIME
+from : Calendarx
+..........................  1040  ...........................
+close : Location_Reference
+San Jose Airport : LOCATION
+..........................  1041  ...........................
+..........................  1042  ...........................
+2 HOURS : DURATION
+..........................  1043  ...........................
+near : Location_Reference
+Ballfield : LOCATION
+..........................  1044  ...........................
+7 am : TIME
+until : Calendarx
+4 PM : TIME
+..........................  1045  ...........................
+from : Calendarx
+10 am : TIME
+2 PM : TIME
+..........................  1046  ...........................
+next three hours : DATE
+..........................  1047  ...........................
+20 : NUMBER
+..........................  1048  ...........................
+near my destination : Location_Reference
+..........................  1049  ...........................
+from : Calendarx
+85 : NUMBER
+..........................  1050  ...........................
+nearby : Location_Reference
+..........................  1051  ...........................
+and : NUMBER
+10 : NUMBER
+5 : NUMBER
+lot : Parking_Type
+parking : Location
+..........................  1052  ...........................
+garage : Parking_Type
+10 : NUMBER
+..........................  1053  ...........................
+garage : Parking_Type
+blocks : Distance_Unit
+5 : NUMBER
+..........................  1054  ...........................
+near : Location_Reference
+..........................  1055  ...........................
+..........................  1056  ...........................
+1 : NUMBER
+block : Distance_Unit
+restaurant : Location
+..........................  1057  ...........................
+5 minutes : DURATION
+drive : Distance_Unit
+..........................  1058  ...........................
+a : Distance_Number
+garage : Parking_Type
+..........................  1059  ...........................
+Rio : LOCATION
+near : Location_Reference
+del : Location
+Ristorante : LOCATION
+..........................  1060  ...........................
+Collusium : LOCATION
+near : Location_Reference
+..........................  1061  ...........................
+near : Location_Reference
+Grant Park : LOCATION
+..........................  1062  ...........................
+20 : NUMBER
+..........................  1063  ...........................
+Gringos : LOCATION
+near : Location_Reference
+..........................  1064  ...........................
+near me : Location_Reference
+..........................  1065  ...........................
+near : Location_Reference
+Lincoln High School : ORGANIZATION
+..........................  1066  ...........................
+..........................  1067  ...........................
+near : Location_Reference
+Gulf State Park : LOCATION
+..........................  1068  ...........................
+St Louis Airport : LOCATION
+near : Location_Reference
+..........................  1069  ...........................
+near : Location_Reference
+airport : Location
+..........................  1070  ...........................
+near : Location_Reference
+George Washington Square : LOCATION
+parking : Location
+..........................  1071  ...........................
+near : Location_Reference
+courthouse : Location
+..........................  1072  ...........................
+near : Location_Reference
+International Airport : LOCATION
+..........................  1073  ...........................
+near : Location_Reference
+Union Square : LOCATION
+..........................  1074  ...........................
+near : Location_Reference
+Dustman Lane : LOCATION
+..........................  1075  ...........................
+nearest : Distance_Reference
+airport : Location
+..........................  1076  ...........................
+me : Location_Reference
+6 PM : TIME
+12 PM : TIME
+from : Calendarx
+parking : Location
+..........................  1077  ...........................
+me : Location_Reference
+cheapest : Price_Reference
+meter : Parking_Type
+downtown : Location
+at : Calendarx
+parking : Location
+..........................  1078  ...........................
+me : Location_Reference
+from : Calendarx
+5 PM : TIME
+1 PM : TIME
+at : Calendarx
+stadium : Location
+parking : Location
+..........................  1079  ...........................
+me : Location_Reference
+near : Location_Reference
+Turner Field : LOCATION
+parking : Location
+..........................  1080  ...........................
+me : Location_Reference
+10 : NUMBER
+parking : Location
+..........................  1081  ...........................
+me : Location_Reference
+Att Park : LOCATION
+near : Location_Reference
+thirty dollars : MONEY
+parking : Location
+..........................  1082  ...........................
+me : Location_Reference
+from : Calendarx
+noon : TIME
+midnight : TIME
+to : TIME
+parking : Location
+..........................  1083  ...........................
+me : Location_Reference
+10 dollars : MONEY
+lot : Parking_Type
+parking : Location
+beach : Location
+by : Location_Reference
+..........................  1084  ...........................
+me : Location_Reference
+garage : Parking_Type
+at : Calendarx
+parking : Location
+..........................  1085  ...........................
+me : Location_Reference
+macys : Location
+5 mins : DURATION
+from : Calendarx
+parking : Location
+..........................  1086  ...........................
+me : Location_Reference
+from : Calendarx
+5 PM : TIME
+garage : Parking_Type
+at : Calendarx
+parking : Location
+2 pm : TIME
+..........................  1087  ...........................
+me : Location_Reference
+near : Location_Reference
+Logan Airport : LOCATION
+parking : Location
+..........................  1088  ...........................
+Oakland Convention Center : LOCATION
+near : Location_Reference
+..........................  1089  ...........................
+near : Location_Reference
+Street Metro Station : LOCATION
+3rd : Location
+..........................  1090  ...........................
+me : Location_Reference
+1 : NUMBER
+km : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  1091  ...........................
+me : Location_Reference
+Johnny Garlics : PERSON
+Hallandale : LOCATION
+parking : Location
+..........................  1092  ...........................
+me : Location_Reference
+15 : NUMBER
+km : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  1093  ...........................
+me : Location_Reference
+near : Location_Reference
+LAX AIRPORT : LOCATION
+parking : Location
+..........................  1094  ...........................
+me : Location_Reference
+..........................  1095  ...........................
+me : Location_Reference
+half : Distance_Number
+km : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  1096  ...........................
+me : Location_Reference
+Columbia Airport : LOCATION
+near : Location_Reference
+parking : Location
+..........................  1097  ...........................
+me : Location_Reference
+arena : Location
+from : Calendarx
+8 to 11 : TIME
+near : Location_Reference
+American Airlines : ORGANIZATION
+parking : Location
+pm : TIME
+..........................  1098  ...........................
+me : Location_Reference
+near : Location_Reference
+Dolphin Stadium : LOCATION
+parking : Location
+..........................  1099  ...........................
+me : Location_Reference
+near here : Location_Reference
+reserved : Parking_Type
+parking : Location
+..........................  1100  ...........................
+me : Location_Reference
+on : Calendarx
+downtown : Location
+parking : Location
+blvd : Location
+Hollywood : LOCATION
+..........................  1101  ...........................
+me : Location_Reference
+on : Calendarx
+this : Location_Reference
+block : Distance_Unit
+parking : Location
+..........................  1102  ...........................
+me : Location_Reference
+hersheys chocolate world : Location
+closest : Distance_Reference
+parking : Location
+..........................  1103  ...........................
+me : Location_Reference
+near : Location_Reference
+Hershey Park : LOCATION
+parking : Location
+..........................  1104  ...........................
+me : Location_Reference
+near : Location_Reference
+parking place : Location
+Eugene Airport : LOCATION
+..........................  1105  ...........................
+me : Location_Reference
+5 DOLLARS : MONEY
+parking : Location
+..........................  1106  ...........................
+me : Location_Reference
+5 DOLLARS : MONEY
+parking : Location
+..........................  1107  ...........................
+me : Location_Reference
+2 PM : TIME
+10 am : TIME
+parking space : Location
+..........................  1108  ...........................
+me : Location_Reference
+beach : Location
+at : Calendarx
+parking : Location
+..........................  1109  ...........................
+me : Location_Reference
+..........................  1110  ...........................
+me : Location_Reference
+less than 5 mins : DURATION
+hard rock : Location
+from : Calendarx
+parking : Location
+..........................  1111  ...........................
+near : Location_Reference
+stadium : Location
+..........................  1112  ...........................
+me : Location_Reference
+from : Calendarx
+three : NUMBER
+here : Location_Reference
+miles : Distance_Unit
+parking : Location
+..........................  1113  ...........................
+me : Location_Reference
+cheap : Price_Reference
+parking : Location
+..........................  1114  ...........................
+me : Location_Reference
+10 : NUMBER
+parking : Location
+..........................  1115  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+ten : NUMBER
+parking : Location
+..........................  1116  ...........................
+..........................  1117  ...........................
+me : Location_Reference
+blocks : Distance_Unit
+4 : NUMBER
+parking : Location
+..........................  1118  ...........................
+me : Location_Reference
+miles : Distance_Unit
+two : NUMBER
+parking : Location
+..........................  1119  ...........................
+me : Location_Reference
+5 hours : DURATION
+at : Calendarx
+least : Price_Reference
+..........................  1120  ...........................
+from : Calendarx
+2 : NUMBER
+blocks : Distance_Unit
+my apartment : Location_Reference
+parking : Location
+..........................  1121  ...........................
+near my home : Location_Reference
+parking : Location
+..........................  1122  ...........................
+..........................  1123  ...........................
+near me : Location_Reference
+parking : Location
+..........................  1124  ...........................
+me : Location_Reference
+arena : Location
+parking : Location
+at : Calendarx
+cheapest : Price_Reference
+..........................  1125  ...........................
+me : Location_Reference
+street : Parking_Type
+house : Location
+half a : Distance_Number
+mile : Distance_Unit
+parking : Location
+my : Location_Reference
+..........................  1126  ...........................
+me : Location_Reference
+best deal : Price_Reference
+airport : Location
+at : Calendarx
+parking : Location
+..........................  1127  ...........................
+me : Location_Reference
+25 : NUMBER
+location : Location_Reference
+best : Price_Reference
+parking : Location
+..........................  1128  ...........................
+me : Location_Reference
+near : Location_Reference
+parking : Location
+airport : Location
+cheapest : Price_Reference
+..........................  1129  ...........................
+me : Location_Reference
+parking : Location
+cheapest : Price_Reference
+..........................  1130  ...........................
+me : Location_Reference
+my destination : Location_Reference
+closest : Distance_Reference
+parking : Location
+..........................  1131  ...........................
+me : Location_Reference
+parking : Location
+lot : Parking_Type
+cheapest : Price_Reference
+..........................  1132  ...........................
+me : Location_Reference
+El Patio : LOCATION
+near : Location_Reference
+eatery : Location
+closest : Distance_Reference
+..........................  1133  ...........................
+me : Location_Reference
+cheapest : Price_Reference
+Levi Stadium : LOCATION
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  1134  ...........................
+me : Location_Reference
+garage : Parking_Type
+am : Location_Reference
+nearest : Distance_Reference
+..........................  1135  ...........................
+me : Location_Reference
+near : Location_Reference
+cheapest : Price_Reference
+..........................  1136  ...........................
+me : Location_Reference
+garage : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  1137  ...........................
+me : Location_Reference
+Honolulu : LOCATION
+lot : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  1138  ...........................
+me : Location_Reference
+closest : Distance_Reference
+parking space : Location
+..........................  1139  ...........................
+me : Location_Reference
+a : Distance_Number
+at : Calendarx
+Giants Stadium : LOCATION
+parking : Location
+..........................  1140  ...........................
+me : Location_Reference
+a : Distance_Number
+place : Location
+by : Location_Reference
+..........................  1141  ...........................
+me : Location_Reference
+a : Distance_Number
+JALISCO : LOCATION
+place : Location
+at : Calendarx
+..........................  1142  ...........................
+me : Location_Reference
+a : Distance_Number
+near : Location_Reference
+parking place : Location
+Eugene Airport : LOCATION
+..........................  1143  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+place : Location
+reserve : Parking_Type
+..........................  1144  ...........................
+me : Location_Reference
+a : Distance_Number
+an : Price_Reference
+airport terminal : Location
+close : Location_Reference
+parking space : Location
+..........................  1145  ...........................
+me : Location_Reference
+parking : Location
+..........................  1146  ...........................
+me : Location_Reference
+a : Distance_Number
+beach : Location
+at : Calendarx
+parking : Location
+..........................  1147  ...........................
+me : Location_Reference
+a : Distance_Number
+my destination : Location_Reference
+closest : Distance_Reference
+parking space : Location
+..........................  1148  ...........................
+me : Location_Reference
+a : Distance_Number
+blocks : Distance_Unit
+2 : NUMBER
+parking : Location
+mission delores : Location
+..........................  1149  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+noon : TIME
+to : TIME
+2 : TIME
+parking : Location
+pm : TIME
+..........................  1150  ...........................
+me : Location_Reference
+a : Distance_Number
+near : Location_Reference
+airport : Location
+parking : Location
+..........................  1151  ...........................
+me : Location_Reference
+a : Distance_Number
+on : Calendarx
+Spring : DATE
+parking : Location
+..........................  1152  ...........................
+me : Location_Reference
+a : Distance_Number
+blocks : Distance_Unit
+five : NUMBER
+parking : Location
+..........................  1153  ...........................
+me : Location_Reference
+a : Distance_Number
+5 : NUMBER
+parking : Location
+..........................  1154  ...........................
+me : Location_Reference
+a : Distance_Number
+near by : Location_Reference
+structure : Parking_Type
+parking : Location
+..........................  1155  ...........................
+me : Location_Reference
+a : Distance_Number
+5 : NUMBER
+parking : Location
+..........................  1156  ...........................
+me : Location_Reference
+a : Distance_Number
+downtown center : Location
+around : Location_Reference
+space : Location
+..........................  1157  ...........................
+me : Location_Reference
+close by : Location_Reference
+parking : Location
+..........................  1158  ...........................
+me : Location_Reference
+parking : Location
+an : Price_Reference
+..........................  1159  ...........................
+me : Location_Reference
+a : Distance_Number
+hour : DURATION
+per : Price_Reference
+5 : NUMBER
+parking : Location
+..........................  1160  ...........................
+me : Location_Reference
+a : Distance_Number
+campus : Location
+garage : Parking_Type
+..........................  1161  ...........................
+me : Location_Reference
+place : Location
+by : Location_Reference
+an inexpensive : Price_Reference
+..........................  1162  ...........................
+..........................  1163  ...........................
+me : Location_Reference
+a : Distance_Number
+not : Parking_Type
+garage : Parking_Type
+space : Location
+..........................  1164  ...........................
+me : Location_Reference
+a : Distance_Number
+near my apartment : Location_Reference
+..........................  1165  ...........................
+me : Location_Reference
+a : Distance_Number
+Miami : LOCATION
+..........................  1166  ...........................
+me : Location_Reference
+a : Distance_Number
+arena : Location
+valet : Parking_Type
+at : Calendarx
+my : Location_Reference
+..........................  1167  ...........................
+me : Location_Reference
+a : Distance_Number
+bank downtown : Location
+..........................  1168  ...........................
+me : Location_Reference
+a : Distance_Number
+hospital : Location
+from : Calendarx
+block : Distance_Unit
+..........................  1169  ...........................
+me : Location_Reference
+a : Distance_Number
+all : Duration
+10 dollars : MONEY
+day : DURATION
+down : Location
+parking : Location
+beach : Location
+by : Location_Reference
+..........................  1170  ...........................
+me : Location_Reference
+a : Distance_Number
+going : Location_Reference
+law firm : Location
+close : Location_Reference
+..........................  1171  ...........................
+me : Location_Reference
+a : Distance_Number
+street : Parking_Type
+5 : NUMBER
+parking : Location
+..........................  1172  ...........................
+me : Location_Reference
+a : Distance_Number
+1 : NUMBER
+block : Distance_Unit
+valet : Parking_Type
+..........................  1173  ...........................
+me : Location_Reference
+affordable : Price_Reference
+..........................  1174  ...........................
+me : Location_Reference
+garage : Parking_Type
+near : Location_Reference
+Chinatown : LOCATION
+parking : Location
+..........................  1175  ...........................
+..........................  1176  ...........................
+me : Location_Reference
+parking : Location
+nearby : Location_Reference
+cheapest : Price_Reference
+..........................  1177  ...........................
+..........................  1178  ...........................
+me : Location_Reference
+on : Calendarx
+Aventura Beach : LOCATION
+free : Price_Reference
+parking : Location
+..........................  1179  ...........................
+near my work : Location_Reference
+parking : Location
+..........................  1180  ...........................
+..........................  1181  ...........................
+..........................  1182  ...........................
+me : Location_Reference
+Oklahoma University : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  1183  ...........................
+me : Location_Reference
+buy : Location
+at : Calendarx
+parking : Location
+close : Location_Reference
+best : Price_Reference
+..........................  1184  ...........................
+me : Location_Reference
+on : Calendarx
+blv : Location
+starbucks : Location
+parking : Location
+Hollywood : LOCATION
+..........................  1185  ...........................
+me : Location_Reference
+Walmart : ORGANIZATION
+at : Calendarx
+parking : Location
+..........................  1186  ...........................
+..........................  1187  ...........................
+..........................  1188  ...........................
+me : Location_Reference
+2 AM : TIME
+from : Calendarx
+10 pm : TIME
+parking : Location
+not : Parking_Type
+off street : Parking_Type
+..........................  1189  ...........................
+me : Location_Reference
+Hershey Park : LOCATION
+at : Calendarx
+parking : Location
+..........................  1190  ...........................
+me : Location_Reference
+grand rapids : Location
+parking place : Location
+..........................  1191  ...........................
+me : Location_Reference
+LAX AIRPORT : LOCATION
+at : Calendarx
+parking : Location
+..........................  1192  ...........................
+Oklahoma University Parking : ORGANIZATION
+..........................  1193  ...........................
+me : Location_Reference
+overnight : TIME
+parking : Location
+..........................  1194  ...........................
+DAY : DURATION
+..........................  1195  ...........................
+on : Calendarx
+all : Duration
+this : Location_Reference
+street : Parking_Type
+parking : Location
+day : DURATION
+..........................  1196  ...........................
+a : Distance_Number
+downtown : Location
+near : Location_Reference
+parking space : Location
+..........................  1197  ...........................
+a : Distance_Number
+4 pm : TIME
+at : Calendarx
+parking : Location
+..........................  1198  ...........................
+a : Distance_Number
+all : Duration
+8 am : TIME
+place : Location
+night : TIME
+until : Calendarx
+..........................  1199  ...........................
+a : Distance_Number
+Amsterdam : LOCATION
+near : Location_Reference
+59th : ORDINAL
+valet : Parking_Type
+..........................  1200  ...........................
+a : Distance_Number
+Disneyland : LOCATION
+at : Calendarx
+parking : Location
+..........................  1201  ...........................
+nearest : Distance_Reference
+restaurant : Location
+..........................  1202  ...........................
+a : Distance_Number
+place : Location
+overnight : TIME
+parking : Location
+..........................  1203  ...........................
+a : Distance_Number
+parking space : Location
+..........................  1204  ...........................
+me : Location_Reference
+a : Distance_Number
+parking place : Location
+at : Calendarx
+lowest cost : Price_Reference
+..........................  1205  ...........................
+a : Distance_Number
+on : Calendarx
+lower : Location
+space : Location
+carilion hospital : Location
+garage : Parking_Type
+..........................  1206  ...........................
+a : Distance_Number
+all : Duration
+current : DATE
+mile : Distance_Unit
+location : Location_Reference
+parking : Location
+my : Location_Reference
+..........................  1207  ...........................
+a : Distance_Number
+free : Price_Reference
+space : Location
+..........................  1208  ...........................
+a : Distance_Number
+at : Calendarx
+..........................  1209  ...........................
+a : Distance_Number
+overnight : TIME
+parking : Location
+..........................  1210  ...........................
+..........................  1211  ...........................
+nearby : Location_Reference
+..........................  1212  ...........................
+all : Duration
+30 : NUMBER
+parking : Location
+..........................  1213  ...........................
+garage : Parking_Type
+parking : Location
+overnight : TIME
+an : Price_Reference
+..........................  1214  ...........................
+parking : Location
+20 dollars : MONEY
+reserve : Parking_Type
+..........................  1215  ...........................
+near : Location_Reference
+Railway Station : LOCATION
+parking : Location
+..........................  1216  ...........................
+near : Location_Reference
+Orioles Stadium : LOCATION
+parking : Location
+..........................  1217  ...........................
+..........................  1218  ...........................
+near me : Location_Reference
+..........................  1219  ...........................
+..........................  1220  ...........................
+..........................  1221  ...........................
+parking : Location
+near me : Location_Reference
+cheapest : Price_Reference
+..........................  1222  ...........................
+lowes : Location
+..........................  1223  ...........................
+arena : Location
+closest : Distance_Reference
+..........................  1224  ...........................
+Park : PERSON
+place : Location
+closest : Distance_Reference
+..........................  1225  ...........................
+..........................  1226  ...........................
+..........................  1227  ...........................
+..........................  1228  ...........................
+..........................  1229  ...........................
+Aventura Mall : LOCATION
+..........................  1230  ...........................
+me : Location_Reference
+a : Distance_Number
+near : Location_Reference
+Oakland Coliseum : LOCATION
+parking : Location
+..........................  1231  ...........................
+..........................  1232  ...........................
+..........................  1233  ...........................
+me near : Location_Reference
+Stanley Theatre : LOCATION
+..........................  1234  ...........................
+near : Location_Reference
+restaurant : Location
+parking : Location
+..........................  1235  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+..........................  1236  ...........................
+10 : NUMBER
+an hour : DURATION
+..........................  1237  ...........................
+overnight : TIME
+parking : Location
+..........................  1238  ...........................
+me : Location_Reference
+a : Distance_Number
+parking downtown : Location
+..........................  1239  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+garage : Parking_Type
+..........................  1240  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+..........................  1241  ...........................
+me : Location_Reference
+a : Distance_Number
+Hilton Hawaiian Village : LOCATION
+at : Calendarx
+..........................  1242  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+macys : Location
+parking : Location
+5 minutes : DURATION
+..........................  1243  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+nearest : Distance_Reference
+..........................  1244  ...........................
+me : Location_Reference
+from : Calendarx
+an : Price_Reference
+current : DATE
+4 : NUMBER
+parking : Location
+blocks : Distance_Unit
+my : Location_Reference
+location : Location_Reference
+..........................  1245  ...........................
+me : Location_Reference
+a : Distance_Number
+blocks : Distance_Unit
+here : Location_Reference
+garage : Parking_Type
+7 : NUMBER
+parking : Location
+..........................  1246  ...........................
+me : Location_Reference
+a : Distance_Number
+parking place : Location
+50 : NUMBER
+..........................  1247  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+by : Location_Reference
+..........................  1248  ...........................
+me : Location_Reference
+a : Distance_Number
+downtown : Location
+garage : Parking_Type
+parking : Location
+..........................  1249  ...........................
+me : Location_Reference
+a : Distance_Number
+Hilton Hotel : LOCATION
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+..........................  1250  ...........................
+me : Location_Reference
+a : Distance_Number
+2 : NUMBER
+place : Location
+..........................  1251  ...........................
+me : Location_Reference
+a : Distance_Number
+all : Duration
+30 : NUMBER
+garage : Parking_Type
+parking : Location
+day : DURATION
+..........................  1252  ...........................
+me : Location_Reference
+a : Distance_Number
+14 : NUMBER
+garage : Parking_Type
+mile : Distance_Unit
+parking : Location
+..........................  1253  ...........................
+me : Location_Reference
+a : Distance_Number
+1 : NUMBER
+garage : Parking_Type
+parking : Location
+..........................  1254  ...........................
+me : Location_Reference
+a : Distance_Number
+blocks : Distance_Unit
+2 : NUMBER
+lot : Parking_Type
+parking : Location
+..........................  1255  ...........................
+me : Location_Reference
+a : Distance_Number
+20 : NUMBER
+restaurant : Location
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  1256  ...........................
+me : Location_Reference
+a : Distance_Number
+grand rapids : Location
+parking place : Location
+..........................  1257  ...........................
+me : Location_Reference
+a : Distance_Number
+parking place : Location
+3 HOURS : DURATION
+..........................  1258  ...........................
+a : Distance_Number
+book : Parking_Type
+airport shuttle : Location
+lot : Parking_Type
+parking : Location
+at : Calendarx
+..........................  1259  ...........................
+MIDNIGHT : TIME
+7 PM : TIME
+..........................  1260  ...........................
+4th : ORDINAL
+..........................  1261  ...........................
+a : Distance_Number
+concert : Location
+hour : DURATION
+parking : Location
+near : Location_Reference
+half : Distance_Number
+reserve : Parking_Type
+before : Calendarx
+..........................  1262  ...........................
+..........................  1263  ...........................
+..........................  1264  ...........................
+nearby : Location_Reference
+..........................  1265  ...........................
+..........................  1266  ...........................
+lots : Parking_Type
+6 pm : TIME
+11 pm : TIME
+parking : Location
+..........................  1267  ...........................
+close : Location_Reference
+parking : Location
+..........................  1268  ...........................
+airport : Location
+at : Calendarx
+parking : Location
+..........................  1269  ...........................
+nearby : Location_Reference
+..........................  1270  ...........................
+1 : NUMBER
+garage : Parking_Type
+all : Duration
+parking : Location
+..........................  1271  ...........................
+a : Distance_Number
+5 minutes : DURATION
+walk : Distance_Unit
+here : Location_Reference
+parking : Location
+..........................  1272  ...........................
+30 : NUMBER
+this area : Location_Reference
+..........................  1273  ...........................
+building : Location_Reference
+on : Calendarx
+we : Location_Reference
+street : Parking_Type
+7 pm : TIME
+at : Calendarx
+..........................  1274  ...........................
+8 am : TIME
+from : Calendarx
+this : Location_Reference
+8 pm : TIME
+lot : Parking_Type
+until : Calendarx
+..........................  1275  ...........................
+a : Distance_Number
+afternoon : TIME
+..........................  1276  ...........................
+on : Calendarx
+street : Parking_Type
+after : Calendarx
+10 pm : TIME
+..........................  1277  ...........................
+on : Calendarx
+street : Parking_Type
+from : Calendarx
+4 PM : TIME
+8 PM : TIME
+..........................  1278  ...........................
+7th : ORDINAL
+on : Calendarx
+11 pm : TIME
+..........................  1279  ...........................
+airport : Location
+at : Calendarx
+..........................  1280  ...........................
+this : Location_Reference
+on : Calendarx
+Tuesday : DATE
+street : Parking_Type
+side : Location
+..........................  1281  ...........................
+this : Location_Reference
+on : Calendarx
+street : Parking_Type
+..........................  1282  ...........................
+a : Distance_Number
+15 : NUMBER
+reserve : Parking_Type
+..........................  1283  ...........................
+a : Distance_Number
+Georgia Dome : LOCATION
+near : Location_Reference
+parking : Location
+reserve : Parking_Type
+..........................  1284  ...........................
+a : Distance_Number
+on : Calendarx
+we : Location_Reference
+street : Parking_Type
+7 pm : TIME
+at : Calendarx
+..........................  1285  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+my destination : Location_Reference
+garage : Parking_Type
+parking : Location
+three minutes : DURATION
+..........................  1286  ...........................
+airport : Location
+cheap : Price_Reference
+by : Location_Reference
+parking : Location
+..........................  1287  ...........................
+a : Distance_Number
+Blacksburg Virginia : LOCATION
+place : Location
+at : Calendarx
+cinebowl : Location
+..........................  1288  ...........................
+me : Location_Reference
+a : Distance_Number
+city : Location
+club : Location
+one : NUMBER
+block : Distance_Unit
+..........................  1289  ...........................
+me : Location_Reference
+a : Distance_Number
+parking downtown : Location
+restaurant : Location
+..........................  1290  ...........................
+walk : Distance_Unit
+5 minutes : DURATION
+from : Calendarx
+here : Location_Reference
+parking : Location
+..........................  1291  ...........................
+me : Location_Reference
+a : Distance_Number
+airport : Location
+at : Calendarx
+garage : Parking_Type
+..........................  1292  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+Las Bolas : LOCATION
+5 PM : TIME
+downtown : Location
+garage : Parking_Type
+near : Location_Reference
+at : Calendarx
+2 pm : TIME
+..........................  1293  ...........................
+me : Location_Reference
+airport : Location
+the day of March 24 : DATE
+at : Calendarx
+parking : Location
+..........................  1294  ...........................
+me : Location_Reference
+parking : Location
+..........................  1295  ...........................
+..........................  1296  ...........................
+me : Location_Reference
+nearest : Distance_Reference
+lot : Parking_Type
+..........................  1297  ...........................
+me : Location_Reference
+garage : Parking_Type
+at : Calendarx
+10 am : TIME
+an : Price_Reference
+..........................  1298  ...........................
+me : Location_Reference
+3 PM : TIME
+from : Calendarx
+2 pm : TIME
+..........................  1299  ...........................
+me : Location_Reference
+cheap : Price_Reference
+parking : Location
+..........................  1300  ...........................
+me : Location_Reference
+10 pm : TIME
+destination : Location_Reference
+near : Location_Reference
+street : Parking_Type
+parking : Location
+until : Calendarx
+..........................  1301  ...........................
+me : Location_Reference
+a : Distance_Number
+garage : Parking_Type
+overnight : TIME
+parking : Location
+..........................  1302  ...........................
+me : Location_Reference
+near : Location_Reference
+Grant Park : LOCATION
+..........................  1303  ...........................
+me : Location_Reference
+from : Calendarx
+2 pm : TIME
+..........................  1304  ...........................
+me : Location_Reference
+..........................  1305  ...........................
+..........................  1306  ...........................
+me : Location_Reference
+parking : Location
+..........................  1307  ...........................
+a : Distance_Number
+seven : NUMBER
+nights : TIME
+a week : DURATION
+midnight : TIME
+overnight : TIME
+six am : TIME
+through : Calendarx
+lot : Parking_Type
+parking : Location
+..........................  1308  ...........................
+me : Location_Reference
+garage : Parking_Type
+parking : Location
+closest : Distance_Reference
+24 hour : DURATION
+..........................  1309  ...........................
+..........................  1310  ...........................
+me : Location_Reference
+..........................  1311  ...........................
+Beverly Center : LOCATION
+at : Calendarx
+parking : Location
+..........................  1312  ...........................
+garage : Parking_Type
+closest : Distance_Reference
+..........................  1313  ...........................
+nearest : Distance_Reference
+airport : Location
+lot : Parking_Type
+parking : Location
+..........................  1314  ...........................
+..........................  1315  ...........................
+..........................  1316  ...........................
+movie theatre : Location
+nearest : Distance_Reference
+lot : Parking_Type
+..........................  1317  ...........................
+Lincoln Memorial : LOCATION
+near : Location_Reference
+parking : Location
+..........................  1318  ...........................
+Valet Service : ORGANIZATION
+restaurant : Location
+..........................  1319  ...........................
+near me : Location_Reference
+from : Calendarx
+lots : Parking_Type
+6 PM : TIME
+are : Location_Reference
+parking : Location
+2 pm : TIME
+..........................  1320  ...........................
+..........................  1321  ...........................
+area : Location_Reference
+all : Duration
+parking : Location
+valet : Parking_Type
+..........................  1322  ...........................
+9 am : TIME
+from : Calendarx
+10 am : TIME
+..........................  1323  ...........................
+SHREVEPORT : LOCATION
+..........................  1324  ...........................
+parking : Location
+..........................  1325  ...........................
+noon : TIME
+around here : Location_Reference
+at : Calendarx
+..........................  1326  ...........................
+airport : Location
+at : Calendarx
+..........................  1327  ...........................
+a : Distance_Number
+reservation : Parking_Type
+parking : Location
+..........................  1328  ...........................
+me : Location_Reference
+on : Calendarx
+830 : NUMBER
+from : Calendarx
+am : Location_Reference
+845 : NUMBER
+street : Parking_Type
+parking : Location
+near my destination : Location_Reference
+..........................  1329  ...........................
+a : Distance_Number
+me : Location_Reference
+10 : NUMBER
+parking : Location
+..........................  1330  ...........................
+a : Distance_Number
+near : Location_Reference
+railway station : Location
+parking : Location
+..........................  1331  ...........................
+a : Distance_Number
+lot : Parking_Type
+free : Price_Reference
+parking : Location
+..........................  1332  ...........................
+a : Distance_Number
+garage : Parking_Type
+me : Location_Reference
+free : Price_Reference
+close : Location_Reference
+..........................  1333  ...........................
+a : Distance_Number
+door : Location
+Ritz : LOCATION
+tonight : DATE
+near : Location_Reference
+parking : Location
+..........................  1334  ...........................
+a : Distance_Number
+garage : Parking_Type
+nearby : Location_Reference
+..........................  1335  ...........................
+a : Distance_Number
+garage : Parking_Type
+1000 : DATE
+parking : Location
+..........................  1336  ...........................
+a : Distance_Number
+school : Location
+walkable distance : Distance_Reference
+area near : Location_Reference
+parking : Location
+..........................  1337  ...........................
+a : Distance_Number
+garage : Parking_Type
+parking : Location
+..........................  1338  ...........................
+a : Distance_Number
+building : Location_Reference
+medical : Location
+garage : Parking_Type
+parking : Location
+by : Location_Reference
+..........................  1339  ...........................
+a : Distance_Number
+garage : Parking_Type
+short distance : Distance_Reference
+parking : Location
+..........................  1340  ...........................
+a : Distance_Number
+garage : Parking_Type
+7 pm : TIME
+until : Calendarx
+parking : Location
+..........................  1341  ...........................
+a : Distance_Number
+garage : Parking_Type
+nearby : Location_Reference
+parking : Location
+..........................  1342  ...........................
+near : Location_Reference
+Hobby Airport : LOCATION
+..........................  1343  ...........................
+a : Distance_Number
+near my destination : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  1344  ...........................
+a : Distance_Number
+garage : Parking_Type
+2 : NUMBER
+blocks : Distance_Unit
+parking : Location
+..........................  1345  ...........................
+a : Distance_Number
+location near : Location_Reference
+hospital : Location
+parking : Location
+..........................  1346  ...........................
+a : Distance_Number
+1 : NUMBER
+mile : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  1347  ...........................
+a : Distance_Number
+beach : Location
+by : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  1348  ...........................
+all : Duration
+parking : Location
+nearby : Location_Reference
+..........................  1349  ...........................
+a : Distance_Number
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  1350  ...........................
+street : Parking_Type
+parking : Location
+zoo : Location
+..........................  1351  ...........................
+train station : Location
+free : Price_Reference
+parking : Location
+..........................  1352  ...........................
+garage : Parking_Type
+overnight : TIME
+parking : Location
+..........................  1353  ...........................
+mall : Location
+parking : Location
+free : Price_Reference
+nearby : Location_Reference
+..........................  1354  ...........................
+nearest : Distance_Reference
+hour : DURATION
+per : Price_Reference
+metered : Parking_Type
+3 : NUMBER
+parking : Location
+..........................  1355  ...........................
+Opera House : ORGANIZATION
+nearby : Location_Reference
+parking : Location
+..........................  1356  ...........................
+from : Calendarx
+to : TIME
+am : TIME
+midnight : TIME
+garage : Parking_Type
+2 : TIME
+parking : Location
+..........................  1357  ...........................
+a : Distance_Number
+train station : Location
+blocks : Distance_Unit
+parking : Location
+..........................  1358  ...........................
+a : Distance_Number
+two hours : DURATION
+parking space : Location
+..........................  1359  ...........................
+a : Distance_Number
+2 : NUMBER
+blocks : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  1360  ...........................
+a : Distance_Number
+2 : NUMBER
+blocks : Distance_Unit
+lot : Parking_Type
+parking : Location
+..........................  1361  ...........................
+a : Distance_Number
+my : Location_Reference
+hotel : Location
+parking place : Location
+closest : Distance_Reference
+..........................  1362  ...........................
+a : Distance_Number
+this : Location_Reference
+ramp : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  1363  ...........................
+a : Distance_Number
+near : Location_Reference
+parking place : Location
+airport : Location
+..........................  1364  ...........................
+a : Distance_Number
+parking place downtown : Location
+..........................  1365  ...........................
+downtown : Location
+6 pm : TIME
+from : Calendarx
+..........................  1366  ...........................
+downtown : Location
+9 am : TIME
+6 pm : TIME
+from : Calendarx
+..........................  1367  ...........................
+cheap : Price_Reference
+..........................  1368  ...........................
+hours : DURATION
+during : Calendarx
+here : Location_Reference
+..........................  1369  ...........................
+9 AM : TIME
+12 pm : TIME
+here : Location_Reference
+..........................  1370  ...........................
+..........................  1371  ...........................
+near : Location_Reference
+Railway Station : LOCATION
+..........................  1372  ...........................
+me : Location_Reference
+a : Distance_Number
+from : Calendarx
+5 pm : TIME
+8 PM : TIME
+parking : Location
+..........................  1373  ...........................
+me : Location_Reference
+space : Location
+near : Location_Reference
+airport : Location
+not : Parking_Type
+reserve : Parking_Type
+..........................  1374  ...........................
+..........................  1375  ...........................
+GRAND RAPIDS : MISC
+..........................  1376  ...........................
+..........................  1377  ...........................
+parking : Location
+..........................  1378  ...........................
+me : Location_Reference
+street : Parking_Type
+meters : Parking_Type
+no : Price_Reference
+parking : Location
+..........................  1379  ...........................
+me : Location_Reference
+afternoon : TIME
+..........................  1380  ...........................
+..........................  1381  ...........................
+near : Location_Reference
+lax : Location
+closest : Distance_Reference
+parking : Location
+..........................  1382  ...........................
+3 hour : DURATION
+parking : Location
+..........................  1383  ...........................
+..........................  1384  ...........................
+3 : NUMBER
+blocks : Distance_Unit
+parking : Location
+..........................  1385  ...........................
+lots : Parking_Type
+parking : Location
+reserve : Parking_Type
+..........................  1386  ...........................
+11 : NUMBER
+3 : DATE
+free : Price_Reference
+parking : Location
+..........................  1387  ...........................
+lots : Parking_Type
+24 hours : DURATION
+around here : Location_Reference
+parking : Location
+..........................  1388  ...........................
+lots : Parking_Type
+couple : Distance_Number
+miles : Distance_Unit
+parking : Location
+..........................  1389  ...........................
+downtown : Location
+20 : NUMBER
+..........................  1390  ...........................
+PATS : ORGANIZATION
+free : Price_Reference
+tonight : DATE
+game : Location
+parking : Location
+close : Location_Reference
+..........................  1391  ...........................
+near : Location_Reference
+theater : Location
+parking : Location
+..........................  1392  ...........................
+lots : Parking_Type
+nearby : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  1393  ...........................
+this location : Location_Reference
+..........................  1394  ...........................
+a : Distance_Number
+from : Calendarx
+4 PM : TIME
+1 pm : TIME
+supermarket : Location
+near : Location_Reference
+lot : Parking_Type
+parking : Location
+..........................  1395  ...........................
+me : Location_Reference
+parking : Location
+..........................  1396  ...........................
+at : Calendarx
+stadium : Location
+parking : Location
+..........................  1397  ...........................
+10 : NUMBER
+parking : Location
+..........................  1398  ...........................
+cheapest : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  1399  ...........................
+at : Calendarx
+parking : Location
+..........................  1400  ...........................
+garages : Parking_Type
+all : Duration
+day : DURATION
+parking : Location
+..........................  1401  ...........................
+a : Distance_Number
+all : Duration
+lots : Parking_Type
+public parking : Location
+three : NUMBER
+block : Distance_Unit
+..........................  1402  ...........................
+lots : Parking_Type
+3 : NUMBER
+blocks : Distance_Unit
+..........................  1403  ...........................
+lots : Parking_Type
+19 : NUMBER
+now : DATE
+are : Location_Reference
+parking : Location
+..........................  1404  ...........................
+lots : Parking_Type
+near : Location_Reference
+stadium : Location
+..........................  1405  ...........................
+lots : Parking_Type
+5 : NUMBER
+parking : Location
+..........................  1406  ...........................
+near : Location_Reference
+airport : Location
+parking : Location
+..........................  1407  ...........................
+a : Distance_Number
+area near : Location_Reference
+parking : Location
+..........................  1408  ...........................
+not : Parking_Type
+a : Distance_Number
+charge : Price_Reference
+nearby : Location_Reference
+parking : Location
+..........................  1409  ...........................
+TONIGHT : DATE
+street : Parking_Type
+parking : Location
+..........................  1410  ...........................
+me : Location_Reference
+a : Distance_Number
+inexpensively : Price_Reference
+place : Location
+my : Location_Reference
+..........................  1411  ...........................
+San Jose Airport : LOCATION
+parking : Location
+..........................  1412  ...........................
+..........................  1413  ...........................
+..........................  1414  ...........................
+..........................  1415  ...........................
+..........................  1416  ...........................
+at : Calendarx
+Colaba : LOCATION
+..........................  1417  ...........................
+Day : DURATION
+..........................  1418  ...........................
+me : Location_Reference
+a : Distance_Number
+area : Location_Reference
+free : Price_Reference
+lot : Parking_Type
+parking : Location
+..........................  1419  ...........................
+me : Location_Reference
+a : Distance_Number
+parking : Location
+..........................  1420  ...........................
+me : Location_Reference
+a : Distance_Number
+are close by : Location_Reference
+garages : Parking_Type
+..........................  1421  ...........................
+a : Distance_Number
+dollar : Amount
+here : Location_Reference
+..........................  1422  ...........................
+a : Distance_Number
+nearby : Location_Reference
+parking : Location
+..........................  1423  ...........................
+destination : Location_Reference
+street : Parking_Type
+by : Location_Reference
+parking : Location
+..........................  1424  ...........................
+me : Location_Reference
+a : Distance_Number
+stadium : Location
+on : Calendarx
+west side : Location
+lot : Parking_Type
+reserve : Parking_Type
+..........................  1425  ...........................
+me : Location_Reference
+124 : NUMBER
+pm : Calendarx
+from : Calendarx
+parking : Location
+..........................  1426  ...........................
+me : Location_Reference
+Ma Chez Restaurant : LOCATION
+near : Location_Reference
+parking : Location
+..........................  1427  ...........................
+a : Distance_Number
+24 hours : DURATION
+airport : Location
+garage : Parking_Type
+near : Location_Reference
+parking : Location
+..........................  1428  ...........................
+me : Location_Reference
+..........................  1429  ...........................
+5 : NUMBER
+parking : Location
+..........................  1430  ...........................
+a : Distance_Number
+from : Calendarx
+2 : NUMBER
+5 : NUMBER
+Atlanta Arena : LOCATION
+at : Calendarx
+blocks : Distance_Unit
+tomorrow : DATE
+parking space : Location
+..........................  1431  ...........................
+a : Distance_Number
+school : Location
+near : Location_Reference
+1 pm : TIME
+lot : Parking_Type
+parking : Location
+..........................  1432  ...........................
+2 PM : TIME
+from : Calendarx
+10 am : TIME
+parking : Location
+..........................  1433  ...........................
+..........................  1434  ...........................
+parking : Location
+..........................  1435  ...........................
+parking : Location
+New York : LOCATION
+cheapest : Price_Reference
+..........................  1436  ...........................
+1 : NUMBER
+parking : Location
+hour : DURATION
+per : Price_Reference
+metered : Parking_Type
+..........................  1437  ...........................
+..........................  1438  ...........................
+garage : Parking_Type
+near destination : Location_Reference
+..........................  1439  ...........................
+..........................  1440  ...........................
+garage : Parking_Type
+closest : Distance_Reference
+parking : Location
+..........................  1441  ...........................
+..........................  1442  ...........................
+..........................  1443  ...........................
+mall : Location
+by : Location_Reference
+free : Price_Reference
+parking : Location
+..........................  1444  ...........................
+CURRENT : DATE
+..........................  1445  ...........................
+nearest : Distance_Reference
+garage : Parking_Type
+Lake Theater : LOCATION
+parking : Location
+..........................  1446  ...........................
+COLABA : LOCATION
+..........................  1447  ...........................
+a : Distance_Number
+3 pm : TIME
+from : Calendarx
+until : Calendarx
+10 pm : TIME
